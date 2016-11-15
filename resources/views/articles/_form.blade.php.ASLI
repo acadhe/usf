@@ -1,0 +1,81 @@
+<?php
+use App\Models\Article;
+?>
+{!! csrf_field() !!}
+<div class="container" id="wrapper-form-create">
+	<div class="row">
+		<div class="col m12" id="form-post">
+			<input name="title" type="text" class="editable post-judul" value="{{old('title',$article->title)}}" placeholder="Title" autofocus/>
+			<div id="form-select">
+				<select name="category">
+					@foreach($categories as $category)
+						<option value="{{$category->name}}" @if(old('content',$article->category)==$category->name) selected @endif>{{$category->name}}</option>
+					@endforeach
+				</select>
+			</div>
+			<textarea name="content" class="editable" placeholder="konten">{{old('content',$article->content)}}</textarea>
+			<input id='privacy' type="hidden" name="privacy" value="{{$article->privacy}}" />
+			<input type="submit" class="btn btn-primary" value="save"/>
+				{{--<input name="privacy" type="radio" value="{{Article::PRIVACY_DRAFT}}" @if($article->privacy == Article::PRIVACY_DRAFT) checked @endif/> draft--}}
+				{{--<input name="privacy" type="radio" value="{{Article::PRIVACY_PUBLISHED}}" @if($article->privacy == Article::PRIVACY_PUBLISHED) checked @endif/> published--}}
+			{{-- --}}
+				{{--<input type="submit" class="btn btn-primary" value="save"/> --}}
+				{{--@if ($article->privacy == Article::PRIVACY_DRAFT)--}}
+				{{--<input type="submit" class="btn btn-primary" name="savemode" value="publish"/>--}}
+				{{--@else--}}
+				{{--<input type="submit" class="btn btn-primary" name="savemode" value="draft"/>--}}
+				{{--@endif--}}
+			{{--</div> --}}
+		</div>
+	</div>
+</div>
+@section('scripts')
+	@parent
+	<script>
+		var editor = new MediumEditor(".editable");
+		var mediumAddons = {
+			images : {
+				deleteScript : '{{$image_delete_url}}',
+				fileDeleteOptions: {
+					headers: {
+						'X-CSRF-TOKEN' : '{{csrf_token()}}'
+					}
+				},
+				fileUploadOptions: {
+					url: "{{$image_upload_url}}",
+					acceptFileTypes: /(.|\/)(gif|jpe?g|png)$/i,
+					paramName: "image",
+					formData: [
+						{
+							name:"_token",
+							value:"{{csrf_token()}}"
+						}
+					]
+				}
+			}
+		};
+		$(function () {
+			$('.editable').mediumInsert({
+				editor: editor,
+				 addons: mediumAddons
+			});
+		});
+		var allContents = editor.serialize();
+		var elContent = allContents["element-0"].value;
+	</script>
+	<script>
+		@if ($article->privacy == Article::PRIVACY_PUBLISHED)
+			$("#publish-post").hide();
+		@else
+			$("#draft-post").hide();
+		@endif
+		$("#publish-post").click(function(){
+			$("#privacy").val('{{Article::PRIVACY_PUBLISHED}}');
+			$("#form").submit();
+		});
+		$("#draft-post").click(function(){
+			$("#privacy").val('{{Article::PRIVACY_DRAFT}}');
+			$("#form").submit();
+		});
+	</script>
+@endsection

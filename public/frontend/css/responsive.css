@@ -1,0 +1,3961 @@
+@media only screen and (min-width: 320px) {
+  #sidenav-overlay {
+    z-index: 9999 !important; }
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 56px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%;
+      text-align: center; }
+      nav#usf-navbar .nav-wrapper .mobile-header {
+        color: rgba(0, 0, 0, 0.87);
+        float: none;
+        position: relative;
+        z-index: 1;
+        height: 56px;
+        font-size: 18px;
+        top: -11px;
+        font: 'LatoWeb'; }
+      nav#usf-navbar .nav-wrapper .show-on-md-down {
+        display: inline; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-logo img {
+    height: 125px;
+    float: none;
+    position: relative;
+    margin-top: 10%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m5 {
+    margin-top: 10%;
+    text-align: center; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(1) {
+    font-size: 2.6rem;
+    text-align: center;
+    margin-top: 5%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info hr {
+    margin: auto; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(3) {
+    font-size: 1.65rem;
+    text-align: center; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(1) {
+    margin-left: auto; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(2) {
+    margin-left: 0; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info img {
+    display: none; }
+  section#usf-pdf ul#countdown {
+    transform: translateY(-5%); }
+    section#usf-pdf ul#countdown li {
+      margin: auto;
+      width: 9%;
+      font-size: 9vw; }
+      section#usf-pdf ul#countdown li.separator p {
+        transform: translateY(-45%); }
+      section#usf-pdf ul#countdown li#days .label {
+        margin-left: -15px; }
+      section#usf-pdf ul#countdown li#hours .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#hours .label {
+        margin-left: -3px; }
+      section#usf-pdf ul#countdown li#minutes .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#seconds .label {
+        margin-left: -6px; }
+      section#usf-pdf ul#countdown li .number {
+        margin: auto; }
+      section#usf-pdf ul#countdown li .label {
+        font-size: 3vw;
+        margin-left: -15px; }
+  section#usf {
+    height: 1080px; }
+    section#usf .bg-usf {
+      height: 580px;
+      background: #fef200 url(../../../frontend/img/bg_11.png) no-repeat 0 -34px;
+      background-size: 930px auto !important; }
+    section#usf #headusf-bg-layer {
+      width: 90% !important; }
+      section#usf #headusf-bg-layer .card-headusf .card {
+        width: 100%; }
+        section#usf #headusf-bg-layer .card-headusf .card .card-content {
+          height: 100%; }
+      section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf {
+        margin-top: 48px; }
+        section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg {
+          padding: 48px 34px 0 34px; }
+          section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(2) {
+            margin-top: 55px; }
+          section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+            font-size: 14px;
+            line-height: 2.3;
+            margin-left: 0;
+            padding: 0 25px; }
+  section#countdown .wrapper-countdown {
+    margin-top: 43px;
+    margin-bottom: 18px; }
+    section#countdown .wrapper-countdown ul#countdown {
+      padding: 0;
+      padding-top: 16px;
+      padding-left: 27px;
+      width: 100%;
+      height: 96px; }
+      section#countdown .wrapper-countdown ul#countdown li {
+        margin-left: -22px;
+        margin-right: 34px;
+        width: 44px; }
+        section#countdown .wrapper-countdown ul#countdown li .number p {
+          font-size: 24px;
+          margin-left: 1px; }
+        section#countdown .wrapper-countdown ul#countdown li .label {
+          font-size: 14px; }
+  section#usf-about #usf-about-wrapper {
+    width: 90% !important; }
+    section#usf-about #usf-about-wrapper #wrapper-bawah-usf-about {
+      width: 90% !important; }
+    section#usf-about #usf-about-wrapper #atas-usf-about p {
+      height: 200px;
+      margin-top: 0; }
+      section#usf-about #usf-about-wrapper #atas-usf-about p span {
+        font-size: 48px;
+        line-height: 1.2;
+        position: relative;
+        top: 12px; }
+    section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+      width: 90%; }
+      section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+        text-align: center; }
+  section#participate {
+    height: 100% !important; }
+    section#participate #participate-wrapper {
+      width: 90% !important;
+      padding-top: 65px; }
+      section#participate #participate-wrapper #card-participate-content {
+        padding: 20px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-header .m10 {
+          margin-left: 16px; }
+          section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-header .m10 p {
+            font-size: 18px;
+            margin: 10px 0; }
+          section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-header .m10 span {
+            font-size: 14px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+          margin-top: 28px; }
+          section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+            margin-right: 0;
+            margin-bottom: 40px;
+            margin-left: 12px; }
+          section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(1) {
+            margin-right: 0;
+            margin-bottom: 0; }
+        section#participate #participate-wrapper #card-participate-content .card-round {
+          width: 45px;
+          height: 45px;
+          padding: 10px 12px 24px 12px; }
+          section#participate #participate-wrapper #card-participate-content .card-round i {
+            font-size: 24px; }
+  section#schedule-soon #schedule-wrapper {
+    width: 90% !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header {
+      padding-left: 0; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 {
+        margin-left: 16px; }
+        section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 p {
+          font-size: 18px !important;
+          margin: 10px 0; }
+        section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 span {
+          font-size: 14px; }
+    section#schedule-soon #schedule-wrapper .card-round {
+      width: 45px;
+      height: 45px;
+      padding: 10px 12px 24px 12px; }
+      section#schedule-soon #schedule-wrapper .card-round i {
+        font-size: 24px; }
+  section#schedule #wrapper-schedule {
+    width: 90% !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 20px; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: -48px;
+      margin-bottom: 24px; }
+      section#schedule #wrapper-schedule #schedule-info .btn-usf {
+        padding: 4px 25px;
+        font-size: 12px; }
+      section#schedule #wrapper-schedule #schedule-info .valign {
+        text-align: center;
+        margin: 0 auto; }
+    section#schedule #wrapper-schedule .timeline {
+      margin-left: 0;
+      margin-top: 0; }
+      section#schedule #wrapper-schedule .timeline li {
+        margin-bottom: -7px !important;
+        overflow: hidden;
+        margin: 0;
+        position: relative;
+        display: inline-block; }
+      section#schedule #wrapper-schedule .timeline li:nth-last-child(1) .timeline-content {
+        border-left: none;
+        padding-left: 22px; }
+      section#schedule #wrapper-schedule .timeline .timeline-date {
+        width: 116px;
+        float: left;
+        margin-top: -3px;
+        margin-bottom: 0;
+        font-size: 16px;
+        font-family: 'LatoWebBold'; }
+      section#schedule #wrapper-schedule .timeline .timeline-content {
+        float: left;
+        border-left: 5px #fff solid;
+        padding-left: 16px;
+        height: 50px; }
+        section#schedule #wrapper-schedule .timeline .timeline-content p {
+          margin-top: 0 !important;
+          font-family: 'LatoWebBold';
+          margin: 18px 0;
+          font-size: 16px;
+          opacity: 0.87;
+          word-break: inherit;
+          display: -webkit-box;
+          max-width: 140px;
+          line-height: 1.2;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          word-wrap: break-word; }
+      section#schedule #wrapper-schedule .timeline .timeline-content:before {
+        content: '';
+        width: 16px;
+        height: 16px;
+        background: #fff;
+        position: absolute;
+        left: 111px;
+        border-radius: 100%;
+        margin-top: 0; }
+  section#venue #location #location-wrapper {
+    width: 90% !important; }
+    section#venue #location #location-wrapper #wrapper-location-header {
+      padding-left: 0; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 {
+        margin-left: 16px; }
+        section#venue #location #location-wrapper #wrapper-location-header .m10 p {
+          font-size: 18px !important;
+          margin: 10px 0; }
+        section#venue #location #location-wrapper #wrapper-location-header .m10 span {
+          font-size: 14px; }
+    section#venue #location #location-wrapper .card-round {
+      width: 45px;
+      height: 45px;
+      padding: 10px 12px 24px 12px; }
+      section#venue #location #location-wrapper .card-round i {
+        font-size: 24px; }
+  section#venue #info-loc {
+    width: 300px;
+    height: 300px;
+    right: 10px;
+    top: 240px; }
+    section#venue #info-loc .card-content .btn-usf {
+      margin-top: 28px; }
+  section#venue #map {
+    height: 336px;
+    position: relative; }
+  section#archieve {
+    top: 300px;
+    height: 100%; }
+    section#archieve #archieve-wrapper {
+      width: 90% !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 998;
+        margin-top: -50px; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header {
+            padding-left: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+              margin-left: 16px !important; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+                font-size: 24px !important;
+                margin: 10px 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+                font-size: 14px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 45px;
+            height: 45px;
+            padding: 10px 12px 24px 12px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 24px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 16px;
+            margin-top: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              padding-left: 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin-right: 0;
+                margin: 15px 0; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part {
+    top: 250px; }
+    section#org-part #org-part-wrapper {
+      width: 90% !important; }
+      section#org-part #org-part-wrapper #wrapper-org-part-header {
+        padding: 0 !important; }
+        section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round {
+          width: 45px;
+          height: 45px;
+          padding: 10px 12px 24px 11px; }
+          section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round i {
+            font-size: 24px; }
+        section#org-part #org-part-wrapper #wrapper-org-part-header .m10 p {
+          font-size: 24px !important;
+          margin: 0 !important;
+          padding-left: 60px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+      margin-right: 24px !important;
+      width: 110px !important;
+      height: 110px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(2) img {
+      height: 100px !important;
+      width: auto !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(3) img {
+      height: 100px !important;
+      width: auto !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(5) {
+      padding-top: 30px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(8) img {
+      height: 100px !important;
+      width: auto !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(9) {
+      padding-top: 0 !important;
+      width: 87% !important;
+      height: 70px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(9) img {
+        width: auto !important;
+        height: 70px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(10) {
+      padding-top: 30px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(11) {
+      padding-top: 30px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(12) {
+      padding-top: 0 !important;
+      width: 87% !important;
+      height: 70px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(12) img {
+        width: auto;
+        height: 40px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(13) {
+      width: 80px !important;
+      height: 100px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(14) {
+      padding-top: 30px !important;
+      width: 150px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(14) img {
+        height: 45px !important;
+        width: auto !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(16) {
+      width: 120px !important;
+      padding-top: 10px; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(16) img {
+        height: 100px !important;
+        width: auto !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(17) {
+      padding-top: 10px; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(17) img {
+        width: 70px !important;
+        height: auto; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(18) {
+      padding-top: 30px;
+      width: 120px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(18) img {
+        width: auto;
+        height: 34px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(19) {
+      padding-top: 0;
+      width: 80px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(20) {
+      padding-top: 0;
+      width: 150px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(20) img {
+        width: auto;
+        height: 48px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(21) {
+      padding-top: 10px;
+      width: 87% !important;
+      height: 90px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(21) img {
+        width: auto;
+        height: 70px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(22) {
+      padding-top: 30px;
+      width: 110px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(22) img {
+        width: auto;
+        height: 19px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(23) {
+      padding-top: 20px;
+      width: 110px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(23) img {
+        width: auto;
+        height: 32px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(25) img {
+      width: 70px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(25) {
+      padding-top: 0;
+      width: 120px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(25) img {
+        width: auto;
+        height: 44px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(26) {
+      padding-top: 15px;
+      width: 120px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(26) img {
+        width: auto;
+        height: 35px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(27) img {
+      width: 80px !important;
+      height: auto; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(28) {
+      width: 100px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(28) img {
+        height: 115px !important;
+        width: auto; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(29) {
+      width: 100px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(29) img {
+        height: 125px !important;
+        width: auto; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(30) {
+      padding-top: 20px;
+      width: 110px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(30) img {
+        height: 120px !important;
+        width: auto; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(31) {
+      padding-top: 40px !important;
+      width: 120px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(31) img {
+        height: 60px !important;
+        width: auto; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(32) {
+      width: 120px !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(32) img {
+        height: 90px;
+        width: auto; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(34) {
+      padding-top: 30px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(35) {
+      padding-top: 30px; }
+  section#contact-soon {
+    top: 260px;
+    height: 100%;
+    background: url("../../../frontend/img/bg_1lalaal.png") no-repeat center 360px;
+    background-size: 960px auto; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 90% !important;
+      padding-top: 0; }
+      section#contact-soon #contact-soon-wrapper .m12 {
+        padding: 0; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 20px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 16px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(4) {
+            padding-left: 16px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 0;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header {
+            padding-left: 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+              margin-left: 16px !important; }
+              section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+                font-size: 24px !important;
+                margin: 10px 0; }
+              section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+                font-size: 14px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 45px;
+            height: 45px;
+            padding: 10px 12px 24px 12px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 24px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-left: 20px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 260px; } }
+
+@media only screen and (min-width: 360px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 56px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-logo img {
+    height: 125px;
+    float: none;
+    position: relative;
+    margin-top: 10%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m5 {
+    margin-top: 5%;
+    text-align: center; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(1) {
+    font-size: 2.6rem;
+    text-align: center;
+    margin-top: 5%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info hr {
+    margin: auto; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(3) {
+    font-size: 1.65rem;
+    text-align: center; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(1) {
+    margin-left: auto; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(2) {
+    margin-left: 0; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info img {
+    display: none; }
+  section#usf-pdf ul#countdown {
+    transform: translateY(-5%); }
+    section#usf-pdf ul#countdown li {
+      margin: auto;
+      width: 9%;
+      font-size: 9vw; }
+      section#usf-pdf ul#countdown li.separator p {
+        transform: translateY(-45%); }
+      section#usf-pdf ul#countdown li#days .label {
+        margin-left: -15px; }
+      section#usf-pdf ul#countdown li#hours .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#hours .label {
+        margin-left: -3px; }
+      section#usf-pdf ul#countdown li#minutes .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#seconds .label {
+        margin-left: -6px; }
+      section#usf-pdf ul#countdown li .number {
+        margin: auto; }
+      section#usf-pdf ul#countdown li .label {
+        font-size: 3vw;
+        margin-left: -15px; }
+  section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+    margin-left: 19px; }
+  section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+    padding-left: 40px; }
+    section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+      margin-bottom: 30px; }
+  section#schedule #wrapper-schedule .timeline li {
+    padding-left: 25px; }
+  section#schedule #wrapper-schedule .timeline .timeline-content p {
+    max-width: 140px; }
+  section#schedule #wrapper-schedule .timeline .timeline-content:before {
+    left: 136px; }
+  section#venue #location #location-wrapper {
+    width: 90% !important; }
+  section#venue #info-loc {
+    right: 29px;
+    top: 240px; }
+  section#archieve {
+    top: 280px;
+    height: 850px; }
+    section#archieve #archieve-wrapper {
+      width: 90% !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 998; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header {
+            padding-left: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+              margin-left: 16px !important; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+                font-size: 24px !important;
+                margin: 10px 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+                font-size: 14px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 45px;
+            height: 45px;
+            padding: 10px 12px 24px 12px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 24px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 16px;
+            margin-top: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              padding-left: 24px; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin-right: 0;
+                margin: 15px 0; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#contact-soon {
+    top: 270px;
+    background: url("../../../frontend/img/bg_1lalaal.png") no-repeat center 375px; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 90% !important; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 20px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(2) {
+            padding-left: 0; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 0; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #email {
+            padding-left: 14.5px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 0;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header {
+            padding-left: 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+              margin-left: 16px; }
+              section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+                font-size: 24px !important;
+                margin: 10px 0; }
+              section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+                font-size: 14px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 45px;
+            height: 45px;
+            padding: 10px 12px 24px 12px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 24px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-top: 52px;
+        margin-bottom: 72px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 234px; } }
+
+@media only screen and (min-width: 375px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 56px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-logo img {
+    height: 125px;
+    float: none;
+    position: relative;
+    margin-top: 10%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m5 {
+    margin-top: 5%;
+    text-align: center; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(1) {
+    font-size: 2.6rem;
+    text-align: center;
+    margin-top: 5%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info hr {
+    margin: auto; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(3) {
+    font-size: 1.65rem;
+    text-align: center; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(1) {
+    margin-left: auto; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(2) {
+    margin-left: 0; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info img {
+    display: none; }
+  section#usf-pdf ul#countdown {
+    transform: translateY(-5%); }
+    section#usf-pdf ul#countdown li {
+      margin: auto;
+      width: 9%;
+      font-size: 9vw; }
+      section#usf-pdf ul#countdown li.separator p {
+        transform: translateY(-45%); }
+      section#usf-pdf ul#countdown li#days .label {
+        margin-left: -15px; }
+      section#usf-pdf ul#countdown li#hours .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#hours .label {
+        margin-left: -3px; }
+      section#usf-pdf ul#countdown li#minutes .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#seconds .label {
+        margin-left: -6px; }
+      section#usf-pdf ul#countdown li .number {
+        margin: auto; }
+      section#usf-pdf ul#countdown li .label {
+        font-size: 3vw;
+        margin-left: -15px; }
+  section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf {
+    margin-top: 48px; }
+    section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+      margin-left: 29px;
+      padding: 0 25px; }
+  section#countdown .wrapper-countdown {
+    margin-top: 48px;
+    margin-bottom: 16px; }
+    section#countdown .wrapper-countdown ul#countdown {
+      padding-left: 27px; }
+      section#countdown .wrapper-countdown ul#countdown li {
+        width: 50px; }
+  section#usf-about #usf-about-wrapper #atas-usf-about p {
+    height: 200px; }
+    section#usf-about #usf-about-wrapper #atas-usf-about p span {
+      line-height: 1.2; }
+  section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+    width: 90%; }
+    section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+      text-align: center; }
+  section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+    margin-top: 28px;
+    padding-left: 25px; }
+    section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+      margin-left: 37px; }
+  section#schedule-soon #schedule-wrapper .card-round {
+    width: 45px;
+    height: 45px;
+    padding: 11px 12px 24px 10px; }
+    section#schedule-soon #schedule-wrapper .card-round i {
+      font-size: 24px; }
+  section#schedule #wrapper-schedule {
+    width: 90% !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 20px; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: 0; }
+      section#schedule #wrapper-schedule #schedule-info p:nth-child(1) {
+        margin-top: 0; }
+    section#schedule #wrapper-schedule .timeline {
+      margin-left: 0;
+      margin-top: 0; }
+      section#schedule #wrapper-schedule .timeline li {
+        margin-bottom: -7px !important;
+        padding-left: 35px !important;
+        overflow: hidden;
+        margin: 0;
+        position: relative;
+        display: inline-block; }
+      section#schedule #wrapper-schedule .timeline li:nth-last-child(1) .timeline-content {
+        border-left: none;
+        padding-left: 22px; }
+      section#schedule #wrapper-schedule .timeline .timeline-date {
+        width: 116px;
+        float: left;
+        margin-top: -3px;
+        margin-bottom: 0;
+        font-size: 16px;
+        font-family: 'LatoWebBold'; }
+      section#schedule #wrapper-schedule .timeline .timeline-content {
+        float: left;
+        border-left: 5px #fff solid;
+        padding-left: 16px;
+        height: 50px; }
+        section#schedule #wrapper-schedule .timeline .timeline-content p {
+          margin-top: 0 !important;
+          font-family: 'LatoWebBold';
+          margin: 18px 0;
+          font-size: 16px;
+          opacity: 0.87;
+          word-break: inherit;
+          display: -webkit-box;
+          max-width: 140px;
+          line-height: 1.2;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          word-wrap: break-word; }
+      section#schedule #wrapper-schedule .timeline .timeline-content:before {
+        content: '';
+        width: 16px;
+        height: 16px;
+        background: #fff;
+        position: absolute;
+        left: 146px;
+        border-radius: 100%;
+        margin-top: 0; }
+  section#venue #location #location-wrapper {
+    width: 90% !important; }
+  section#venue #info-loc {
+    right: 35px;
+    top: 240px; }
+  section#archieve {
+    top: 280px;
+    height: 850px; }
+    section#archieve #archieve-wrapper {
+      width: 90% !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 998; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header {
+            padding-left: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+              margin-left: 16px !important; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+                font-size: 24px !important;
+                margin: 10px 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+                font-size: 14px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 45px;
+            height: 45px;
+            padding: 10px 12px 24px 12px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 24px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 16px;
+            margin-top: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              padding-left: 24px; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin-right: 0;
+                margin: 15px 0; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part #org-part-wrapper .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+    margin-right: 24px !important; }
+  section#contact-soon {
+    top: 240px;
+    background: url("../../../frontend/img/bg_1lalaal.png") no-repeat center 375px; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 90% !important; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 20px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(2) {
+            padding-left: 0; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 0; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #email {
+            padding-left: 14.5px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 0;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header {
+            padding-left: 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+              margin-left: 16px; }
+              section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+                font-size: 24px !important;
+                margin: 10px 0; }
+              section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+                font-size: 14px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 45px;
+            height: 45px;
+            padding: 10px 12px 24px 12px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 24px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-top: 52px;
+        margin-bottom: 72px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 200px; } }
+
+@media only screen and (min-width: 414px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 56px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-logo img {
+    height: 125px;
+    float: none;
+    position: relative;
+    margin-top: 7%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m5 {
+    margin-top: 5%;
+    margin-left: 13.5%;
+    text-align: center; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(1) {
+    font-size: 2.6rem;
+    text-align: center;
+    margin-top: 5%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info hr {
+    margin: auto; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(3) {
+    font-size: 1.65rem;
+    text-align: center; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(1) {
+    margin-left: 1.8%;
+    display: block; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(2) {
+    margin-left: 7px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info img {
+    display: none; }
+  section#usf-pdf ul#countdown {
+    transform: translateY(-5%); }
+    section#usf-pdf ul#countdown li {
+      margin: auto;
+      width: 9%;
+      font-size: 9vw; }
+      section#usf-pdf ul#countdown li.separator p {
+        transform: translateY(-45%); }
+      section#usf-pdf ul#countdown li#days .label {
+        margin-left: -9px; }
+      section#usf-pdf ul#countdown li#hours .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#hours .label {
+        margin-left: -3px; }
+      section#usf-pdf ul#countdown li#minutes .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#seconds .label {
+        margin-left: -6px; }
+      section#usf-pdf ul#countdown li .number {
+        margin: auto; }
+      section#usf-pdf ul#countdown li .label {
+        font-size: 3vw;
+        margin-left: -15px; }
+  section#usf #headusf-bg-layer {
+    width: 90% !important; }
+    section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+      margin-left: 49px;
+      margin-bottom: 20px; }
+  section#countdown .wrapper-countdown {
+    margin-top: 20px;
+    margin-bottom: 24px; }
+    section#countdown .wrapper-countdown ul#countdown {
+      padding: 0;
+      padding-top: 16px;
+      padding-left: 50px;
+      width: 100%; }
+      section#countdown .wrapper-countdown ul#countdown li {
+        margin-left: -22px;
+        margin-right: 34px;
+        width: 52px; }
+        section#countdown .wrapper-countdown ul#countdown li .number p {
+          font-size: 27px;
+          margin-left: 1px; }
+        section#countdown .wrapper-countdown ul#countdown li .label {
+          font-size: 16px; }
+  section#usf-about #usf-about-wrapper {
+    width: 90% !important; }
+    section#usf-about #usf-about-wrapper #wrapper-bawah-usf-about {
+      width: 90% !important; }
+    section#usf-about #usf-about-wrapper #atas-usf-about p {
+      height: 225px;
+      font-size: 27px; }
+      section#usf-about #usf-about-wrapper #atas-usf-about p span {
+        line-height: 1.2;
+        font-size: 58px; }
+    section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+      width: 90%; }
+      section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+        text-align: center; }
+  section#participate {
+    top: 0; }
+    section#participate #participate-wrapper {
+      width: 90% !important;
+      padding-top: 0; }
+      section#participate #participate-wrapper #card-participate-content {
+        padding: 20px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-header .m10 {
+          margin-left: 16px; }
+          section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-header .m10 p {
+            font-size: 18px;
+            margin: 10px 0; }
+          section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-header .m10 span {
+            font-size: 14px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+          margin-top: 28px;
+          padding-left: 70px; }
+          section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+            margin-right: 0;
+            margin-bottom: 40px;
+            margin-left: 12px; }
+          section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(1) {
+            margin-right: 0;
+            margin-bottom: 0; }
+        section#participate #participate-wrapper #card-participate-content .card-round {
+          width: 45px;
+          height: 45px;
+          padding: 10px 12px 24px 11px; }
+          section#participate #participate-wrapper #card-participate-content .card-round i {
+            font-size: 24px; }
+  section#schedule-soon #schedule-wrapper {
+    width: 90% !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header {
+      padding-left: 0; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 {
+        margin-left: 16px !important; }
+        section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 p {
+          font-size: 18px !important;
+          margin: 10px 0; }
+        section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 span {
+          font-size: 14px; }
+    section#schedule-soon #schedule-wrapper .card-round {
+      width: 45px;
+      height: 45px;
+      padding: 10px 12px 24px 12px; }
+      section#schedule-soon #schedule-wrapper .card-round i {
+        font-size: 24px; }
+  section#schedule #wrapper-schedule {
+    width: 90% !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 45px; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: 0;
+      margin-bottom: 16px; }
+      section#schedule #wrapper-schedule #schedule-info p:nth-child(1) {
+        margin-top: 0; }
+    section#schedule #wrapper-schedule .timeline {
+      margin-left: 0;
+      margin-top: 0; }
+      section#schedule #wrapper-schedule .timeline li {
+        overflow: hidden;
+        margin: 0;
+        position: relative;
+        display: inline-block;
+        padding-left: 25px !important; }
+      section#schedule #wrapper-schedule .timeline li:nth-last-child(1) .timeline-content {
+        border-left: none;
+        padding-left: 22px; }
+      section#schedule #wrapper-schedule .timeline .timeline-date {
+        width: 116px;
+        float: left;
+        margin-top: -3px;
+        margin-bottom: 0;
+        font-size: 16px;
+        font-family: 'LatoWebBold'; }
+      section#schedule #wrapper-schedule .timeline .timeline-content {
+        float: left;
+        border-left: 5px #fff solid;
+        padding-left: 18px;
+        height: 50px; }
+        section#schedule #wrapper-schedule .timeline .timeline-content p {
+          margin-top: 0 !important;
+          font-family: 'LatoWebBold';
+          margin: 18px 0;
+          font-size: 16px;
+          opacity: 0.87;
+          word-break: inherit;
+          display: -webkit-box;
+          max-width: 140px;
+          line-height: 1.2;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          word-wrap: break-word; }
+      section#schedule #wrapper-schedule .timeline .timeline-content:before {
+        content: '';
+        width: 16px;
+        height: 16px;
+        background: #fff;
+        position: absolute;
+        left: 136px;
+        border-radius: 100%;
+        margin-top: 0; }
+  section#venue #location #location-wrapper {
+    width: 90% !important; }
+    section#venue #location #location-wrapper #wrapper-location-header {
+      padding-left: 0; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 {
+        margin-left: 16px !important; }
+        section#venue #location #location-wrapper #wrapper-location-header .m10 p {
+          font-size: 18px !important;
+          margin: 10px 0; }
+        section#venue #location #location-wrapper #wrapper-location-header .m10 span {
+          font-size: 14px; }
+    section#venue #location #location-wrapper .card-round {
+      width: 45px;
+      height: 45px;
+      padding: 10px 12px 24px 12px; }
+      section#venue #location #location-wrapper .card-round i {
+        font-size: 24px; }
+  section#venue #info-loc {
+    width: 300px;
+    height: 300px;
+    right: 60px;
+    top: 184px; }
+  section#archieve {
+    top: 200px; }
+    section#archieve #archieve-wrapper {
+      width: 90% !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 998; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header {
+            padding-left: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+              margin-left: 16px !important; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+                font-size: 24px !important;
+                margin: 10px 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+                font-size: 14px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 45px;
+            height: 45px;
+            padding: 10px 12px 24px 12px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 24px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 65px;
+            margin-top: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              padding-left: 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin-right: 0;
+                margin: 15px 0; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part {
+    top: 200px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+      margin: 24px !important; }
+  section#contact-soon {
+    top: 200px; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 90% !important; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 20px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(2) {
+            padding-left: 0; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 0; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 0;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header {
+            padding-left: 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+              margin-left: 16px !important; }
+              section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+                font-size: 24px !important;
+                margin: 10px 0; }
+              section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+                font-size: 14px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 45px;
+            height: 45px;
+            padding: 10px 12px 24px 12px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 24px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-left: 20px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 160px; } }
+
+@media only screen and (min-width: 425px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 56px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-logo img {
+    height: 125px;
+    float: none;
+    position: relative;
+    margin-top: 7%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m5 {
+    margin-top: 5%;
+    margin-left: 13.5%;
+    text-align: center; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(1) {
+    font-size: 2.6rem;
+    text-align: center;
+    margin-top: 5%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info hr {
+    margin: auto; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(3) {
+    font-size: 1.65rem;
+    text-align: center; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(1) {
+    margin-left: 1.8%;
+    display: block; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(2) {
+    margin-left: 7px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info img {
+    display: none; }
+  section#usf-pdf ul#countdown {
+    transform: translateY(-5%); }
+    section#usf-pdf ul#countdown li {
+      margin: auto;
+      width: 9%;
+      font-size: 9vw; }
+      section#usf-pdf ul#countdown li.separator p {
+        transform: translateY(-45%); }
+      section#usf-pdf ul#countdown li#days .label {
+        margin-left: -9px; }
+      section#usf-pdf ul#countdown li#hours .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#hours .label {
+        margin-left: -3px; }
+      section#usf-pdf ul#countdown li#minutes .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#seconds .label {
+        margin-left: -6px; }
+      section#usf-pdf ul#countdown li .number {
+        margin: auto; }
+      section#usf-pdf ul#countdown li .label {
+        font-size: 3vw;
+        margin-left: -15px; }
+  section#usf #headusf-bg-layer {
+    width: 90% !important; }
+    section#usf #headusf-bg-layer .card-headusf .card {
+      width: 100%; }
+      section#usf #headusf-bg-layer .card-headusf .card .card-content {
+        height: 100%; }
+    section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg {
+      padding: 48px 34px 0 34px; }
+      section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(4) {
+        margin-bottom: 48px; }
+      section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+        margin-left: 50px;
+        margin-bottom: 32px; }
+  section#countdown .wrapper-countdown ul#countdown {
+    padding: 0;
+    padding-top: 16px;
+    padding-left: 27px;
+    width: 100%; }
+    section#countdown .wrapper-countdown ul#countdown li {
+      margin-left: -22px;
+      margin-right: 34px;
+      width: 52px; }
+      section#countdown .wrapper-countdown ul#countdown li .number p {
+        font-size: 27px;
+        margin-left: 1px; }
+      section#countdown .wrapper-countdown ul#countdown li .label {
+        font-size: 16px; }
+  section#usf-about #usf-about-wrapper {
+    width: 90% !important; }
+    section#usf-about #usf-about-wrapper #wrapper-bawah-usf-about {
+      width: 90% !important; }
+    section#usf-about #usf-about-wrapper #atas-usf-about p {
+      height: 225px; }
+      section#usf-about #usf-about-wrapper #atas-usf-about p span {
+        line-height: 1.2; }
+    section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+      width: 90%; }
+      section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+        text-align: center; }
+  section#participate #participate-wrapper {
+    width: 90% !important; }
+    section#participate #participate-wrapper #card-participate-content {
+      padding: 20px; }
+      section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-header .m10 {
+        margin-left: 16px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-header .m10 p {
+          font-size: 18px;
+          margin: 10px 0; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-header .m10 span {
+          font-size: 14px; }
+      section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+        margin-top: 28px;
+        padding-left: 70px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+          margin-right: 0;
+          margin-bottom: 40px;
+          margin-left: 12px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(1) {
+          margin-right: 0;
+          margin-bottom: 0; }
+      section#participate #participate-wrapper #card-participate-content .card-round {
+        width: 45px;
+        height: 45px;
+        padding: 10px 12px 24px 11px; }
+        section#participate #participate-wrapper #card-participate-content .card-round i {
+          font-size: 24px; }
+  section#schedule-soon #schedule-wrapper {
+    width: 90% !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header {
+      padding-left: 0; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 {
+        margin-left: 16px !important; }
+        section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 p {
+          font-size: 18px !important;
+          margin: 10px 0; }
+        section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 span {
+          font-size: 14px; }
+    section#schedule-soon #schedule-wrapper .card-round {
+      width: 45px;
+      height: 45px;
+      padding: 10px 12px 24px 12px; }
+      section#schedule-soon #schedule-wrapper .card-round i {
+        font-size: 24px; }
+  section#schedule #wrapper-schedule {
+    width: 90% !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 45px; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: 0;
+      margin-bottom: 16px; }
+      section#schedule #wrapper-schedule #schedule-info p:nth-child(1) {
+        margin-top: 0; }
+    section#schedule #wrapper-schedule .timeline {
+      margin-left: 0;
+      margin-top: 0; }
+      section#schedule #wrapper-schedule .timeline li {
+        overflow: hidden;
+        margin: 0;
+        position: relative;
+        display: inline-block; }
+      section#schedule #wrapper-schedule .timeline li:nth-last-child(1) .timeline-content {
+        border-left: none;
+        padding-left: 22px; }
+      section#schedule #wrapper-schedule .timeline .timeline-date {
+        width: 116px;
+        float: left;
+        margin-top: -3px;
+        margin-bottom: 0;
+        font-size: 16px;
+        font-family: 'LatoWebBold'; }
+      section#schedule #wrapper-schedule .timeline .timeline-content {
+        float: left;
+        border-left: 5px #fff solid;
+        padding-left: 18px;
+        height: 50px; }
+        section#schedule #wrapper-schedule .timeline .timeline-content p {
+          margin-top: 0 !important;
+          font-family: 'LatoWebBold';
+          margin: 18px 0;
+          font-size: 16px;
+          opacity: 0.87;
+          word-break: inherit;
+          display: -webkit-box;
+          max-width: 140px;
+          line-height: 1.2;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          word-wrap: break-word; }
+      section#schedule #wrapper-schedule .timeline .timeline-content:before {
+        content: '';
+        width: 16px;
+        height: 16px;
+        background: #fff;
+        position: absolute;
+        left: 136px;
+        border-radius: 100%;
+        margin-top: 0; }
+  section#venue #location #location-wrapper {
+    width: 90% !important; }
+    section#venue #location #location-wrapper #wrapper-location-header {
+      padding-left: 0; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 {
+        margin-left: 16px !important; }
+        section#venue #location #location-wrapper #wrapper-location-header .m10 p {
+          font-size: 18px !important;
+          margin: 10px 0; }
+        section#venue #location #location-wrapper #wrapper-location-header .m10 span {
+          font-size: 14px; }
+    section#venue #location #location-wrapper .card-round {
+      width: 45px;
+      height: 45px;
+      padding: 10px 12px 24px 12px; }
+      section#venue #location #location-wrapper .card-round i {
+        font-size: 24px; }
+  section#venue #info-loc {
+    width: 300px;
+    height: 300px;
+    right: 60px;
+    top: 184px; }
+  section#archieve {
+    top: 200px; }
+    section#archieve #archieve-wrapper {
+      width: 90% !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 998; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header {
+            padding-left: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+              margin-left: 16px !important; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+                font-size: 24px !important;
+                margin: 10px 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+                font-size: 14px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 45px;
+            height: 45px;
+            padding: 10px 12px 24px 12px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 24px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 65px;
+            margin-top: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              padding-left: 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin-right: 0;
+                margin: 15px 0; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+    margin: 24px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(9), section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(12) {
+    width: 60% !important; }
+  section#contact-soon {
+    top: 200px; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 90% !important; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 20px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(2) {
+            padding-left: 0; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 0; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 0;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header {
+            padding-left: 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+              margin-left: 16px !important; }
+              section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+                font-size: 24px !important;
+                margin: 10px 0; }
+              section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+                font-size: 14px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 45px;
+            height: 45px;
+            padding: 10px 12px 24px 12px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 24px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-left: 20px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 155px; } }
+
+@media only screen and (min-width: 600px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 56px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf .row {
+    margin-top: 15%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-logo img {
+    height: 135px;
+    float: right;
+    position: relative;
+    margin-top: 16%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m5 {
+    width: 83.3333333333% !important;
+    padding-left: 10.5px;
+    margin-top: 0;
+    margin-left: 0;
+    text-align: left; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m7 {
+    width: 33.3333333333% !important; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(1) {
+    font-size: 3rem;
+    text-align: left;
+    margin-top: 8%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info hr {
+    margin-left: -31px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(3) {
+    font-size: 2rem;
+    text-align: left; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(1) {
+    margin-left: 0; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(2) {
+    margin-left: 34px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(3) {
+    margin-left: 18px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info img {
+    display: none; }
+  section#usf-pdf ul#countdown {
+    transform: translateY(0%); }
+    section#usf-pdf ul#countdown li {
+      margin: auto;
+      width: 10%;
+      font-size: 9vw; }
+      section#usf-pdf ul#countdown li.separator p {
+        transform: translateY(-45%); }
+      section#usf-pdf ul#countdown li#days .label {
+        margin-left: 6px; }
+      section#usf-pdf ul#countdown li#hours .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#hours .label {
+        margin-left: -3px; }
+      section#usf-pdf ul#countdown li#minutes .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#seconds .label {
+        margin-left: -6px; }
+      section#usf-pdf ul#countdown li .number {
+        margin: auto; }
+      section#usf-pdf ul#countdown li .label {
+        font-size: 3vw;
+        margin-left: -15px; }
+  section#usf #headusf-bg-layer {
+    width: 90% !important; }
+    section#usf #headusf-bg-layer .card-headusf .card {
+      width: 100%; }
+      section#usf #headusf-bg-layer .card-headusf .card .card-content {
+        height: 100%; }
+    section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf {
+      margin-top: 150px; }
+      section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg {
+        padding: 48px 34px 0 34px; }
+        section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+          margin-left: 130px; }
+  section#countdown .wrapper-countdown ul#countdown {
+    padding: 0;
+    padding-top: 12px;
+    padding-left: 20px;
+    width: 75%; }
+    section#countdown .wrapper-countdown ul#countdown li {
+      margin-left: -22px;
+      margin-right: 34px;
+      width: 65px; }
+      section#countdown .wrapper-countdown ul#countdown li .number p {
+        font-size: 30px;
+        margin-left: 1px; }
+      section#countdown .wrapper-countdown ul#countdown li .label {
+        font-size: 18px; }
+  section#usf-about #usf-about-wrapper {
+    width: 90% !important; }
+    section#usf-about #usf-about-wrapper #wrapper-bawah-usf-about {
+      width: 90% !important; }
+    section#usf-about #usf-about-wrapper #atas-usf-about p {
+      height: 125px;
+      margin-bottom: 0; }
+      section#usf-about #usf-about-wrapper #atas-usf-about p span {
+        line-height: 1.2; }
+    section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+      width: 90%; }
+      section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+        text-align: center;
+        font-size: 18px; }
+  section#participate #participate-wrapper {
+    width: 90% !important; }
+    section#participate #participate-wrapper #card-participate-content {
+      padding: 20px; }
+      section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+        margin-top: 28px;
+        padding-left: 15px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+          margin-right: 0;
+          margin-bottom: 40px;
+          margin-left: 38px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(1) {
+          margin-right: 0;
+          margin-bottom: 0; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 {
+        margin-left: 16px; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 p {
+          font-size: 24px !important;
+          margin: 10px 0; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 span {
+          font-size: 16px; }
+      section#participate #participate-wrapper #card-participate-content .card-round {
+        width: 60px;
+        height: 60px;
+        padding: 12px 12px 0 13px; }
+        section#participate #participate-wrapper #card-participate-content .card-round i {
+          font-size: 36px; }
+  section#schedule-soon #schedule-wrapper {
+    width: 90% !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 {
+      margin-left: 16px !important; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 p {
+        font-size: 24px !important;
+        margin: 10px 0; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 span {
+        font-size: 16px; }
+    section#schedule-soon #schedule-wrapper .card-round {
+      width: 60px;
+      height: 60px;
+      padding: 12px 12px 0 13px; }
+      section#schedule-soon #schedule-wrapper .card-round i {
+        font-size: 36px; }
+  section#schedule #wrapper-schedule {
+    width: 90% !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 20px; }
+      section#schedule #wrapper-schedule #schedule-timeline .wrapper-schedule-timeline {
+        margin-top: 45px;
+        padding-left: 45px; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: 0; }
+    section#schedule #wrapper-schedule .timeline {
+      margin-left: 0;
+      margin-top: 0; }
+      section#schedule #wrapper-schedule .timeline li {
+        overflow: hidden;
+        margin: 0;
+        position: relative;
+        display: block; }
+      section#schedule #wrapper-schedule .timeline li:nth-last-child(1) .timeline-date {
+        margin-top: -6px; }
+      section#schedule #wrapper-schedule .timeline li:nth-last-child(1) .timeline-content {
+        border-left: none;
+        padding-left: 35px; }
+        section#schedule #wrapper-schedule .timeline li:nth-last-child(1) .timeline-content p {
+          margin-top: -3px !important; }
+      section#schedule #wrapper-schedule .timeline .timeline-date {
+        width: 163px;
+        float: left;
+        margin-top: -3px;
+        margin-bottom: 0;
+        font-size: 20px;
+        font-family: 'LatoWebBold'; }
+      section#schedule #wrapper-schedule .timeline .timeline-content {
+        float: left;
+        border-left: 5px #fff solid;
+        padding-left: 40px;
+        height: 61px; }
+        section#schedule #wrapper-schedule .timeline .timeline-content p {
+          margin-top: 0 !important;
+          font-family: 'LatoWebBold';
+          margin: 18px 0;
+          font-size: 20px;
+          opacity: 0.87;
+          word-break: inherit;
+          display: -webkit-box;
+          max-width: 180px;
+          line-height: 1.2;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          word-wrap: break-word; }
+      section#schedule #wrapper-schedule .timeline .timeline-content:before {
+        content: '';
+        width: 16px;
+        height: 16px;
+        background: #fff;
+        position: absolute;
+        left: 183px;
+        border-radius: 100%;
+        margin-top: 0; }
+  section#venue #location #location-wrapper {
+    width: 90% !important; }
+    section#venue #location #location-wrapper #wrapper-location-header .m10 {
+      margin-left: 16px !important; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 p {
+        font-size: 24px !important;
+        margin: 10px 0; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 span {
+        font-size: 16px; }
+    section#venue #location #location-wrapper .card-round {
+      width: 60px;
+      height: 60px;
+      padding: 12px 12px 0 13px; }
+      section#venue #location #location-wrapper .card-round i {
+        font-size: 36px; }
+  section#venue #info-loc {
+    width: 300px;
+    height: 300px;
+    right: 143px;
+    top: 184px; }
+  section#archieve {
+    top: 200px;
+    height: 100%; }
+    section#archieve #archieve-wrapper {
+      width: 90% !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 998; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+            margin-left: -13px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+              font-size: 24px !important;
+              margin: 10px 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+              font-size: 16px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 60px;
+            height: 60px;
+            padding: 12px 12px 0 13px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 36px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 143px;
+            margin-top: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              display: table-caption;
+              padding-left: 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin-right: 0;
+                margin: 15px 0; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part #org-part-wrapper {
+    width: 90% !important; }
+    section#org-part #org-part-wrapper #wrapper-org-part-header {
+      padding: 0 30px !important; }
+      section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round {
+        width: 60px;
+        height: 60px;
+        padding: 12px 12px 0 13px; }
+        section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round i {
+          font-size: 36px; }
+      section#org-part #org-part-wrapper #wrapper-org-part-header .m10 p {
+        font-size: 24px !important;
+        margin: 0 !important;
+        padding-left: 50px;
+        margin-top: 20px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+    margin: 0 24px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(9) {
+    width: 30% !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(9) img {
+      width: 166px !important;
+      height: 40px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(12) {
+    width: 30% !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(12) img {
+      width: 160px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(20) {
+    padding-top: 10px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(21) {
+    padding-top: 15px !important;
+    width: 150px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(21) img {
+      height: 38px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(24) {
+    padding-top: 10px !important;
+    width: 120px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(24) img {
+      height: 60px !important;
+      width: auto !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(26) {
+    width: 150px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(26) img {
+      width: 155px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(30) {
+    padding-top: 0 !important;
+    width: 150px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(30) img {
+      height: 155px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(32) {
+    padding-top: 30px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(32) img {
+      height: 95px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(33) {
+    padding-top: 20px !important; }
+  section#contact-soon {
+    top: 170px;
+    height: 650px;
+    background: url(../../../frontend/img/bg_1lalaal.png) no-repeat center 110px;
+    background-size: 1080px auto; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 90% !important; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 20px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 83px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(4) {
+            padding-left: 83px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp {
+            padding-left: 14.5px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+              margin-right: 0;
+              margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+            margin-left: -13px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+              font-size: 24px !important;
+              margin: 10px 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+              font-size: 16px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 60px;
+            height: 60px;
+            padding: 12px 12px 0 13px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 36px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-left: 20px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 120px; } }
+
+@media only screen and (min-width: 640px) {
+  section#schedule #wrapper-schedule .timeline > li {
+    overflow: hidden;
+    margin: 0;
+    position: relative; }
+  section#schedule #wrapper-schedule .timeline-date {
+    width: 146px;
+    float: left;
+    margin-top: 7px;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-family: 'LatoWebBold';
+    color: #000 !important;
+    opacity: 0.87; }
+  section#schedule #wrapper-schedule .timeline-content {
+    float: left;
+    border-left: 5px #fff solid;
+    padding-left: 30px;
+    height: 45px; }
+    section#schedule #wrapper-schedule .timeline-content p {
+      margin-top: 9px !important;
+      font-family: 'LatoWebBold';
+      margin: 18px 0;
+      font-size: 20px;
+      opacity: 0.87;
+      word-break: inherit;
+      display: -webkit-box;
+      max-width: 400px;
+      height: 94.6px;
+      line-height: 1.2;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      word-wrap: break-word; }
+  section#schedule #wrapper-schedule .timeline-content:before {
+    content: '';
+    width: 16px;
+    height: 16px;
+    background: #fff;
+    position: absolute;
+    left: 141px;
+    margin-top: -13px;
+    border-radius: 100%; } }
+
+@media only screen and (min-width: 768px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 56px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  #bg-usf img {
+    right: 0;
+    margin-bottom: 0;
+    margin-top: -270px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf .row {
+    margin-top: 0; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-logo img {
+    height: 172px;
+    float: right;
+    position: relative;
+    margin-top: 16%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m5 {
+    width: 66.6666666667% !important;
+    padding-left: 0;
+    margin-top: 0;
+    margin-left: 0;
+    text-align: left; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m7 {
+    width: 33.3333333333% !important; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(1) {
+    font-size: 3.6rem;
+    text-align: left;
+    margin-top: 8%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info hr {
+    margin-left: -31px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(3) {
+    font-size: 2.65rem;
+    text-align: left; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(1) {
+    margin-left: 11px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(2) {
+    margin-left: 34px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(3) {
+    margin-left: 18px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info img {
+    display: initial;
+    margin-left: 24px; }
+  section#usf-pdf ul#countdown {
+    transform: translateY(0%); }
+    section#usf-pdf ul#countdown li {
+      margin: auto;
+      width: 10%;
+      font-size: 8vw; }
+      section#usf-pdf ul#countdown li.separator p {
+        transform: translateY(-55%); }
+      section#usf-pdf ul#countdown li#days .label {
+        margin-left: -9px; }
+      section#usf-pdf ul#countdown li#hours .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#hours .label {
+        margin-left: -3px; }
+      section#usf-pdf ul#countdown li#minutes .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#minutes .label {
+        margin-left: -12px; }
+      section#usf-pdf ul#countdown li#seconds .label {
+        margin-left: -12px; }
+      section#usf-pdf ul#countdown li .number {
+        margin: auto; }
+      section#usf-pdf ul#countdown li .label {
+        font-size: 3vw;
+        margin-left: -15px; }
+  section#usf {
+    height: 690px !important; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg {
+      padding: 21px !important; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .m6 {
+        padding: 0; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(1) {
+        margin-bottom: 10px;
+        font-size: 22px; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(2) {
+        margin-bottom: 10px;
+        margin-top: 0 !important;
+        font-size: 20px; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(3) {
+        margin-bottom: 25px;
+        font-size: 20px; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(4) {
+        font-size: 13px;
+        margin-bottom: 28px !important; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg #usf-logo {
+        object-fit: cover; }
+    section#usf #headusf-bg-layer {
+      width: 90% !important; }
+      section#usf #headusf-bg-layer .card-headusf .row .m6 {
+        padding: 0; }
+      section#usf #headusf-bg-layer .card-headusf .card {
+        width: 100%; }
+        section#usf #headusf-bg-layer .card-headusf .card .card-content {
+          height: 400px; }
+      section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+        margin-left: 43px;
+        margin-bottom: 0; }
+  section#countdown .wrapper-countdown ul#countdown {
+    padding: 0;
+    padding-top: 12px;
+    padding-left: 60px;
+    width: 75%;
+    height: 112px; }
+    section#countdown .wrapper-countdown ul#countdown li {
+      margin-left: -22px;
+      margin-right: 34px;
+      width: 85px; }
+      section#countdown .wrapper-countdown ul#countdown li .number p {
+        font-size: 34px;
+        margin-left: 1px; }
+      section#countdown .wrapper-countdown ul#countdown li .label {
+        font-size: 22px; }
+  section#usf-about {
+    padding-top: 20px; }
+    section#usf-about #usf-about-wrapper {
+      width: 90% !important; }
+      section#usf-about #usf-about-wrapper #wrapper-bawah-usf-about {
+        width: 90% !important; }
+      section#usf-about #usf-about-wrapper #atas-usf-about p {
+        height: 130px;
+        margin-bottom: 0; }
+        section#usf-about #usf-about-wrapper #atas-usf-about p span {
+          line-height: 1.2; }
+      section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+        width: 90%; }
+        section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+          text-align: center;
+          font-size: 18px; }
+  section#participate #participate-wrapper {
+    width: 90% !important; }
+    section#participate #participate-wrapper #card-participate-content {
+      padding: 20px; }
+      section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+        margin-top: 28px;
+        padding-left: 55px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+          margin-right: 0;
+          margin-bottom: 40px;
+          margin-left: 52px;
+          margin-right: 48px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(1) {
+          margin-right: 0;
+          margin-bottom: 0; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m2 {
+        padding-left: 15px;
+        padding-top: 11px; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 {
+        margin-left: -13px !important;
+        padding-left: 20px; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 p {
+          font-size: 24px !important;
+          margin: 10px 0; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 span {
+          font-size: 16px; }
+      section#participate #participate-wrapper #card-participate-content .card-round {
+        width: 70px;
+        height: 70px;
+        padding: 17px 9px 0px 18px; }
+        section#participate #participate-wrapper #card-participate-content .card-round i {
+          font-size: 36px; }
+  section#schedule-soon #schedule-wrapper {
+    width: 90% !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header {
+      margin-bottom: 54px;
+      padding-top: 40px; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m2 {
+        padding-left: 15px;
+        padding-top: 11px; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 {
+        margin-left: -13px !important;
+        padding-left: 20px; }
+        section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 p {
+          font-size: 24px !important;
+          margin: 10px 0; }
+        section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 span {
+          font-size: 16px; }
+    section#schedule-soon #schedule-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#schedule-soon #schedule-wrapper .card-round i {
+        font-size: 36px; }
+  section#schedule #wrapper-schedule {
+    width: 90% !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 0; }
+      section#schedule #wrapper-schedule #schedule-timeline .wrapper-schedule-timeline {
+        margin-top: 45px;
+        padding-left: 0; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: 240px; }
+      section#schedule #wrapper-schedule #schedule-info .btn-usf {
+        padding: 0px 15px;
+        font-size: 14px;
+        height: 60px;
+        width: 100%; }
+      section#schedule #wrapper-schedule #schedule-info p:nth-child(1) {
+        font-size: 32px;
+        margin-bottom: 0px; }
+      section#schedule #wrapper-schedule #schedule-info p:nth-child(2) {
+        font-size: 16px;
+        margin-top: 5px; }
+      section#schedule #wrapper-schedule #schedule-info .valign {
+        text-align: left; }
+    section#schedule #wrapper-schedule .timeline .timeline-date {
+      width: 153px; }
+    section#schedule #wrapper-schedule .timeline .timeline-content {
+      padding-left: 30px; }
+    section#schedule #wrapper-schedule .timeline .timeline-content:before {
+      left: 172px; }
+  section#venue #location #location-wrapper {
+    width: 90% !important; }
+    section#venue #location #location-wrapper #wrapper-location-header .m10 {
+      margin-left: 16px !important; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 p {
+        font-size: 24px !important;
+        margin: 10px 0; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 span {
+        font-size: 16px; }
+    section#venue #location #location-wrapper .card-round {
+      width: 60px;
+      height: 60px;
+      padding: 12px 12px 0 13px; }
+      section#venue #location #location-wrapper .card-round i {
+        font-size: 36px; }
+  section#venue #location #info-loc {
+    width: 300px;
+    height: 300px;
+    right: 225px;
+    top: 200px; }
+  section#venue #location #map {
+    height: 450px; }
+  section#venue #info-loc {
+    width: 300px;
+    height: 320px;
+    right: 225px;
+    top: 184px; }
+  section#archieve {
+    top: 160px; }
+    section#archieve #archieve-wrapper {
+      width: 90% !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 998;
+        top: 0; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+            margin-left: -50px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+              font-size: 24px !important;
+              margin: 10px 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+              font-size: 16px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 60px;
+            height: 60px;
+            padding: 12px 12px 0 13px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 36px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 12px;
+            margin-top: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              display: -ms-flexbox;
+              display: flex;
+              padding-left: 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin-right: 0;
+                margin: 15px 8px; }
+                section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li .grayscale figure img {
+                  width: 196px;
+                  height: 196px; }
+                section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li .grayscale figure span {
+                  font-size: 14px; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part {
+    top: 200px; }
+    section#org-part #org-part-wrapper {
+      width: 90% !important; }
+      section#org-part #org-part-wrapper #wrapper-org-part-header {
+        padding: 0 30px !important; }
+        section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round {
+          width: 60px;
+          height: 60px;
+          padding: 12px 12px 0 13px; }
+          section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round i {
+            font-size: 36px; }
+        section#org-part #org-part-wrapper #wrapper-org-part-header .m10 p {
+          font-size: 24px !important;
+          margin: 0 !important;
+          padding-left: 30px;
+          margin-top: 20px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+      margin-right: 24px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(9) img {
+      width: auto !important;
+      height: 60px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(12) img {
+      width: auto !important;
+      height: 35px !important; }
+  section#contact-soon {
+    top: 200px;
+    height: 695px;
+    background: url("../../../frontend/img/bg_1lalaal.png") no-repeat center 200px; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 90% !important;
+      padding-top: 0; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 20px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 83px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(4) {
+            padding-left: 83px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 0;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+            margin-left: -39px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+              font-size: 24px !important;
+              margin: 10px 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+              font-size: 16px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 60px;
+            height: 60px;
+            padding: 12px 12px 0 13px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 36px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-left: 20px;
+        margin-top: 52px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 117px; } }
+
+@media only screen and (min-width: 840px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 56px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf .row {
+    margin-top: 7.5%; }
+  section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg {
+    padding: 29px !important; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .m6 {
+      padding: 0; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(1) {
+      margin-bottom: 10px;
+      font-size: 22px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(2) {
+      margin-bottom: 10px;
+      font-size: 20px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(3) {
+      margin-bottom: 25px;
+      font-size: 20px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(4) {
+      font-size: 13px;
+      margin-bottom: 33px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+      margin-left: 60px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg #usf-logo {
+      object-fit: cover; }
+  section#usf #headusf-bg-layer {
+    width: 90% !important; }
+    section#usf #headusf-bg-layer .card-headusf .row .m6 {
+      padding: 0; }
+    section#usf #headusf-bg-layer .card-headusf .card {
+      width: 100%; }
+      section#usf #headusf-bg-layer .card-headusf .card .card-content {
+        height: 400px; }
+    section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+      margin-left: 43px;
+      margin-bottom: 0; }
+  section#countdown .wrapper-countdown ul#countdown {
+    padding: 0;
+    padding-top: 12px;
+    padding-left: 60px;
+    width: 64%; }
+    section#countdown .wrapper-countdown ul#countdown li {
+      margin-left: -22px;
+      margin-right: 34px;
+      width: 85px; }
+      section#countdown .wrapper-countdown ul#countdown li .number p {
+        font-size: 34px;
+        margin-left: 1px; }
+      section#countdown .wrapper-countdown ul#countdown li .label {
+        font-size: 22px; }
+  section#usf-about #usf-about-wrapper {
+    width: 90% !important; }
+    section#usf-about #usf-about-wrapper #wrapper-bawah-usf-about {
+      width: 90% !important; }
+    section#usf-about #usf-about-wrapper #atas-usf-about p {
+      height: 130px;
+      margin-bottom: 0; }
+      section#usf-about #usf-about-wrapper #atas-usf-about p span {
+        line-height: 1.2; }
+    section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+      width: 90%; }
+      section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+        text-align: center;
+        font-size: 18px; }
+  section#participate #participate-wrapper {
+    width: 90% !important; }
+    section#participate #participate-wrapper #card-participate-content {
+      padding: 20px; }
+      section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+        margin-top: 28px;
+        padding-left: 100px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+          margin-right: 0;
+          margin-bottom: 40px;
+          margin-left: 52px;
+          margin-right: 48px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(1) {
+          margin-right: 0;
+          margin-bottom: 0; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m2 {
+        padding-left: 15px;
+        padding-top: 11px; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 {
+        margin-left: -13px !important;
+        padding-left: 20px; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 p {
+          font-size: 24px !important;
+          margin: 10px 0; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 span {
+          font-size: 16px !important; }
+      section#participate #participate-wrapper #card-participate-content .card-round {
+        width: 70px;
+        height: 70px;
+        padding: 17px 9px 0px 18px; }
+        section#participate #participate-wrapper #card-participate-content .card-round i {
+          font-size: 36px; }
+  section#schedule-soon #schedule-wrapper {
+    width: 90% !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m2 {
+      padding-left: 15px;
+      padding-top: 11px; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 {
+      margin-left: -13px !important;
+      padding-left: 20px; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 p {
+        font-size: 24px !important;
+        margin: 10px 0; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 span {
+        font-size: 16px; }
+    section#schedule-soon #schedule-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#schedule-soon #schedule-wrapper .card-round i {
+        font-size: 36px; }
+  section#schedule #wrapper-schedule {
+    width: 90% !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 0; }
+      section#schedule #wrapper-schedule #schedule-timeline .wrapper-schedule-timeline {
+        margin-top: 45px;
+        padding-left: 45px; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: 240px; }
+  section#venue #location #location-wrapper {
+    width: 90% !important; }
+    section#venue #location #location-wrapper #wrapper-location-header .m2 {
+      padding-left: 15px;
+      padding-top: 11px; }
+    section#venue #location #location-wrapper #wrapper-location-header .m10 {
+      margin-left: -13px !important;
+      padding-left: 20px; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 p {
+        font-size: 24px !important;
+        margin: 10px 0; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 span {
+        font-size: 16px; }
+    section#venue #location #location-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#venue #location #location-wrapper .card-round i {
+        font-size: 36px; }
+  section#venue #info-loc {
+    width: 300px;
+    height: 300px;
+    right: 264px;
+    top: 184px; }
+  section#venue #map {
+    height: 395px; }
+  section#archieve {
+    top: 80px; }
+    section#archieve #archieve-wrapper {
+      width: 90% !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 998; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+            margin-left: -50px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+              font-size: 24px !important;
+              margin: 10px 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+              font-size: 16px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 70px;
+            height: 70px;
+            padding: 16px 12px 0 18px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 36px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 20px;
+            margin-top: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              display: -ms-flexbox;
+              display: flex;
+              padding-left: 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin: 16px; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part {
+    top: 100px; }
+    section#org-part #org-part-wrapper {
+      width: 90% !important; }
+      section#org-part #org-part-wrapper #wrapper-org-part-header {
+        padding: 0 30px !important; }
+        section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round {
+          width: 70px;
+          height: 70px;
+          padding: 16px 12px 0 18px; }
+          section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round i {
+            font-size: 36px; }
+        section#org-part #org-part-wrapper #wrapper-org-part-header .m10 p {
+          font-size: 24px !important;
+          margin: 0 !important;
+          padding-left: 25px;
+          margin-top: 20px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+      margin-right: 24px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(9) {
+      width: 20% !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(9) img {
+        width: auto !important;
+        height: 45px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(12) {
+      width: 20% !important; }
+      section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(12) img {
+        width: auto !important;
+        height: 25px !important; }
+  section#contact-soon {
+    top: 110px;
+    height: 655px;
+    background: url("../../../frontend/img/bg_1lalaal.png") no-repeat center 200px; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 90% !important; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 20px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 83px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(4) {
+            padding-left: 83px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 0;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+            margin-left: -49px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+              font-size: 24px !important;
+              margin: 10px 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+              font-size: 16px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 70px;
+            height: 70px;
+            padding: 16px 12px 0 18px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 36px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-left: 20px;
+        margin-top: 64px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 88px; } }
+
+@media only screen and (min-width: 960px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 56px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf .row {
+    margin-top: 6%; }
+  section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg {
+    padding: 29px !important; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .m6 {
+      padding: 0; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(1) {
+      margin-bottom: 10px;
+      font-size: 22px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(2) {
+      margin-bottom: 10px;
+      font-size: 20px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(3) {
+      margin-bottom: 25px;
+      font-size: 20px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(4) {
+      font-size: 14px;
+      margin-bottom: 24px !important; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+      margin-left: 83px !important; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg #usf-logo {
+      object-fit: cover; }
+  section#usf #headusf-bg-layer {
+    width: 90% !important; }
+    section#usf #headusf-bg-layer .card-headusf .row .m6 {
+      padding: 0; }
+    section#usf #headusf-bg-layer .card-headusf .card {
+      width: 100%; }
+      section#usf #headusf-bg-layer .card-headusf .card .card-content {
+        height: 400px; }
+    section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+      margin-left: 43px;
+      margin-bottom: 0; }
+  section#countdown .wrapper-countdown ul#countdown {
+    padding: 0;
+    padding-top: 12px;
+    padding-left: 60px;
+    width: 65%;
+    height: 120px; }
+    section#countdown .wrapper-countdown ul#countdown li {
+      margin-left: -22px;
+      margin-right: 34px;
+      width: 98px; }
+      section#countdown .wrapper-countdown ul#countdown li .number p {
+        font-size: 38px;
+        margin-left: 1px; }
+      section#countdown .wrapper-countdown ul#countdown li .label {
+        font-size: 24px; }
+  section#usf-about #usf-about-wrapper {
+    width: 90% !important; }
+    section#usf-about #usf-about-wrapper #wrapper-bawah-usf-about {
+      width: 90% !important; }
+    section#usf-about #usf-about-wrapper #atas-usf-about p {
+      height: 130px;
+      margin-bottom: 0; }
+      section#usf-about #usf-about-wrapper #atas-usf-about p span {
+        line-height: 1.2; }
+    section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+      width: 90%; }
+      section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+        text-align: center;
+        font-size: 18px; }
+  section#participate #participate-wrapper {
+    width: 90% !important; }
+    section#participate #participate-wrapper #card-participate-content {
+      padding: 30px; }
+      section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+        margin-top: 28px;
+        padding-left: 10px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+          margin-right: 0;
+          margin-bottom: 40px;
+          margin-left: 0;
+          margin-right: 28px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(1) {
+          margin-right: 0;
+          margin-bottom: 0; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m2 {
+        padding-left: 15px !important;
+        padding-top: 11px !important; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 {
+        margin-left: -13px !important;
+        padding-left: 20px; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 p {
+          font-size: 24px !important;
+          margin: 10px 0; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 span {
+          font-size: 16px !important; }
+      section#participate #participate-wrapper #card-participate-content .card-round {
+        width: 70px;
+        height: 70px;
+        padding: 17px 9px 0px 18px; }
+        section#participate #participate-wrapper #card-participate-content .card-round i {
+          font-size: 36px; }
+  section#schedule-soon #schedule-wrapper {
+    width: 90% !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m2 {
+      padding-left: 15px;
+      padding-top: 11px; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 {
+      margin-left: -13px !important;
+      padding-left: 20px; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 p {
+        font-size: 24px !important;
+        margin: 10px 0; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 span {
+        font-size: 16px; }
+    section#schedule-soon #schedule-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#schedule-soon #schedule-wrapper .card-round i {
+        font-size: 36px; }
+  section#schedule #wrapper-schedule {
+    width: 90% !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 0; }
+      section#schedule #wrapper-schedule #schedule-timeline .wrapper-schedule-timeline {
+        margin-top: 45px;
+        padding-left: 45px; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: 240px; }
+      section#schedule #wrapper-schedule #schedule-info .btn-usf {
+        padding: 5px 18px;
+        font-size: 16px;
+        height: 100%;
+        width: 100%; }
+      section#schedule #wrapper-schedule #schedule-info .valign {
+        margin-left: 0; }
+  section#venue #location #location-wrapper {
+    width: 90% !important; }
+    section#venue #location #location-wrapper #wrapper-location-header .m2 {
+      padding-left: 15px;
+      padding-top: 11px; }
+    section#venue #location #location-wrapper #wrapper-location-header .m10 {
+      margin-left: -13px !important;
+      padding-left: 20px; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 p {
+        font-size: 24px !important;
+        margin: 10px 0; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 span {
+        font-size: 16px; }
+    section#venue #location #location-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#venue #location #location-wrapper .card-round i {
+        font-size: 36px; }
+  section#venue #map {
+    height: 536px; }
+  section#venue #info-loc {
+    width: 300px;
+    height: 320px;
+    right: 35px;
+    top: 72px; }
+  section#archieve {
+    top: 0; }
+    section#archieve #archieve-wrapper {
+      width: 90% !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 998; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 30px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+            margin-left: -50px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+              font-size: 24px !important;
+              margin: 10px 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+              font-size: 16px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 70px;
+            height: 70px;
+            padding: 16px 12px 0 18px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 36px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 20px;
+            margin-top: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              display: -ms-flexbox;
+              display: flex;
+              padding-left: 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin: 0px 23px; }
+                section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li .grayscale figure img {
+                  width: 216px;
+                  height: 216px; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part {
+    top: 30px; }
+    section#org-part #org-part-wrapper {
+      width: 90% !important; }
+      section#org-part #org-part-wrapper #wrapper-org-part-header {
+        padding: 0 30px !important; }
+        section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round {
+          width: 70px;
+          height: 70px;
+          padding: 16px 12px 0 18px; }
+          section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round i {
+            font-size: 36px; }
+        section#org-part #org-part-wrapper #wrapper-org-part-header .m10 p {
+          font-size: 24px !important;
+          margin: 0 !important;
+          padding-left: 15px;
+          margin-top: 25px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+      margin-right: 24px !important; }
+  section#contact-soon {
+    top: 40px; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 90% !important; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 20px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 102px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(4) {
+            padding-left: 102px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 35px;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+            margin-left: -49px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+              font-size: 32px !important;
+              margin: 10px 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+              font-size: 16px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 70px;
+            height: 70px;
+            padding: 16px 12px 0 18px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 36px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-left: 20px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 28px; } }
+
+@media only screen and (min-width: 1024px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 75px; }
+    nav#usf-navbar .hide-lg {
+      display: none !important; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul li a {
+        font-size: 13px; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf .row {
+    margin-top: 0; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-logo img {
+    height: 172px;
+    float: right;
+    position: relative;
+    margin-top: 16%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m5 {
+    width: 50% !important;
+    padding-left: 0;
+    margin-top: 0;
+    margin-left: 0;
+    text-align: left; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m7 {
+    width: 50% !important; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(1) {
+    font-size: 3.6rem;
+    text-align: left;
+    margin-top: 8%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info hr {
+    margin-left: -31px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(3) {
+    font-size: 2.65rem;
+    text-align: left; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(1) {
+    margin-left: 11px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(2) {
+    margin-left: 34px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(3) {
+    margin-left: 18px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info img {
+    display: initial;
+    margin-left: 24px; }
+  section#usf-pdf ul#countdown {
+    transform: translateY(-5%); }
+    section#usf-pdf ul#countdown li {
+      margin: auto;
+      width: 7%;
+      font-size: 5vw; }
+      section#usf-pdf ul#countdown li.separator p {
+        transform: translateY(-55%); }
+      section#usf-pdf ul#countdown li#days .label {
+        margin-left: -9px; }
+      section#usf-pdf ul#countdown li#hours .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#hours .label {
+        margin-left: -3px; }
+      section#usf-pdf ul#countdown li#minutes .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#minutes .label {
+        margin-left: -12px; }
+      section#usf-pdf ul#countdown li#seconds .label {
+        margin-left: -12px; }
+      section#usf-pdf ul#countdown li .number {
+        margin: auto; }
+      section#usf-pdf ul#countdown li .label {
+        font-size: 2vw;
+        margin-left: -15px; }
+  section#usf .bg-usf {
+    background-size: 970px auto !important; }
+  section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg {
+    padding: 29px !important; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .m6 {
+      padding: 0; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(1) {
+      margin-bottom: 10px;
+      font-size: 22px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(2) {
+      margin-bottom: 10px;
+      font-size: 20px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(3) {
+      margin-bottom: 25px;
+      font-size: 20px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(4) {
+      font-size: 16px;
+      margin-bottom: 33px !important; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+      margin-left: 95px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg #usf-logo {
+      object-fit: cover; }
+  section#usf #headusf-bg-layer {
+    width: 85% !important; }
+    section#usf #headusf-bg-layer .card-headusf .row .m6 {
+      padding: 0; }
+    section#usf #headusf-bg-layer .card-headusf .card {
+      width: 100%; }
+      section#usf #headusf-bg-layer .card-headusf .card .card-content {
+        height: 464px; }
+    section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+      margin-left: 78px;
+      margin-bottom: 0; }
+  section#countdown .wrapper-countdown {
+    margin-top: 64px; }
+    section#countdown .wrapper-countdown ul#countdown {
+      padding: 0;
+      padding-top: 12px;
+      padding-left: 60px;
+      width: 65%; }
+      section#countdown .wrapper-countdown ul#countdown li {
+        margin-left: -22px;
+        margin-right: 34px;
+        width: 98px; }
+        section#countdown .wrapper-countdown ul#countdown li .number p {
+          font-size: 38px;
+          margin-left: 1px; }
+        section#countdown .wrapper-countdown ul#countdown li .label {
+          font-size: 24px; }
+  section#usf-about #usf-about-wrapper {
+    width: 90% !important; }
+    section#usf-about #usf-about-wrapper #wrapper-bawah-usf-about {
+      width: 90% !important; }
+    section#usf-about #usf-about-wrapper #atas-usf-about p {
+      height: 130px;
+      margin-bottom: 0; }
+      section#usf-about #usf-about-wrapper #atas-usf-about p span {
+        line-height: 1.2; }
+    section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+      width: 90%; }
+      section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+        text-align: center;
+        font-size: 18px; }
+  section#participate #participate-wrapper {
+    width: 90% !important;
+    padding-left: 0; }
+    section#participate #participate-wrapper #card-participate-content {
+      padding: 30px; }
+      section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+        margin-top: 28px;
+        padding-left: 0; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+          margin-right: 0;
+          margin-bottom: 40px;
+          margin-left: 0;
+          margin-right: 40px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(1) {
+          margin-right: 0;
+          margin-bottom: 0; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(2) {
+          margin-bottom: 0; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m2 {
+        padding-left: 15px !important;
+        padding-top: 11px !important; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 {
+        margin-left: -27px !important;
+        padding-left: 20px; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 p {
+          font-size: 24px !important;
+          margin: 10px 0; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 span {
+          font-size: 18px !important; }
+      section#participate #participate-wrapper #card-participate-content .card-round {
+        width: 70px;
+        height: 70px;
+        padding: 17px 9px 0px 18px; }
+        section#participate #participate-wrapper #card-participate-content .card-round i {
+          font-size: 36px; }
+  section#schedule-soon #schedule-wrapper {
+    width: 90% !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m2 {
+      padding-left: 15px !important;
+      padding-top: 11px !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 {
+      margin-left: -38px !important;
+      padding-left: 20px; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 p {
+        font-size: 28px !important;
+        margin: 10px 0; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 span {
+        font-size: 18px !important; }
+    section#schedule-soon #schedule-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#schedule-soon #schedule-wrapper .card-round i {
+        font-size: 36px; }
+  section#schedule #wrapper-schedule {
+    width: 90% !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 0; }
+      section#schedule #wrapper-schedule #schedule-timeline .wrapper-schedule-timeline {
+        margin-top: 45px;
+        padding-left: 0; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: 260px; }
+      section#schedule #wrapper-schedule #schedule-info .btn-usf {
+        font-size: 14px;
+        height: 100%;
+        padding: 0 2rem;
+        width: 100%; }
+    section#schedule #wrapper-schedule .timeline {
+      margin-left: 0;
+      margin-top: 0;
+      padding-left: 0; }
+      section#schedule #wrapper-schedule .timeline li {
+        overflow: hidden;
+        margin: 0;
+        position: relative;
+        display: block; }
+      section#schedule #wrapper-schedule .timeline li:nth-last-child(1) .timeline-date {
+        margin-top: -6px; }
+      section#schedule #wrapper-schedule .timeline li:nth-last-child(1) .timeline-content {
+        border-left: none;
+        padding-left: 32px; }
+        section#schedule #wrapper-schedule .timeline li:nth-last-child(1) .timeline-content p {
+          margin-top: -3px !important; }
+      section#schedule #wrapper-schedule .timeline .timeline-date {
+        width: 150px;
+        float: left;
+        margin-top: -5px;
+        margin-bottom: 0;
+        font-size: 20px;
+        font-family: 'LatoWebBold'; }
+      section#schedule #wrapper-schedule .timeline .timeline-content {
+        float: left;
+        border-left: 5px #fff solid;
+        padding-left: 27px;
+        height: 61px; }
+        section#schedule #wrapper-schedule .timeline .timeline-content p {
+          margin-top: -3px !important;
+          font-family: 'LatoWebBold';
+          margin: 18px 0;
+          font-size: 20px;
+          opacity: 0.87;
+          word-break: inherit;
+          display: -webkit-box;
+          max-width: 315px;
+          line-height: 1.2;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          word-wrap: break-word; }
+      section#schedule #wrapper-schedule .timeline .timeline-content:before {
+        content: '';
+        width: 16px;
+        height: 16px;
+        background: #fff;
+        position: absolute;
+        left: 170px;
+        border-radius: 100%;
+        margin-top: 0; }
+  section#venue #location #location-wrapper {
+    width: 90% !important; }
+    section#venue #location #location-wrapper #wrapper-location-header .m2 {
+      padding-left: 15px;
+      padding-top: 0; }
+    section#venue #location #location-wrapper #wrapper-location-header .m10 {
+      margin-left: -45px !important;
+      padding-left: 20px; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 p {
+        font-size: 24px !important;
+        margin: 10px 0; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 span {
+        font-size: 18px; }
+    section#venue #location #location-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#venue #location #location-wrapper .card-round i {
+        font-size: 36px; }
+  section#venue #map {
+    height: 536px; }
+  section#venue #info-loc {
+    width: 300px;
+    height: 320px;
+    right: 35px;
+    top: 72px; }
+  section#archieve {
+    top: 0; }
+    section#archieve #archieve-wrapper {
+      width: 90% !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 998; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 30px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+            margin-left: -50px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+              font-size: 24px !important;
+              margin: 10px 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+              font-size: 16px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 70px;
+            height: 70px;
+            padding: 16px 12px 0 18px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 36px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 20px;
+            margin-top: 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              display: -ms-flexbox;
+              display: flex;
+              padding-left: 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin: 0px 30px; }
+                section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li .grayscale figure img {
+                  width: 216px;
+                  height: 216px; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part {
+    top: 50px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+      margin-right: 24px !important; }
+  section#contact-soon {
+    top: 60px;
+    background-size: 1440px auto; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 90% !important; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 20px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 110px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(4) {
+            padding-left: 110px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 35px;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+            margin-left: -49px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+              font-size: 32px !important;
+              margin: 10px 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+              font-size: 16px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 70px;
+            height: 70px;
+            padding: 16px 12px 0 18px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 36px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-left: 20px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 45px; } }
+
+@media only screen and (min-width: 1280px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 75px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul li a {
+        font-size: 14px; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  #bg-usf img {
+    right: 0; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf .row {
+    margin-top: 0; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-logo img {
+    height: 263px;
+    float: right;
+    position: relative;
+    margin-top: 19.434%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m5 {
+    width: 50% !important;
+    padding-left: 0;
+    margin-top: 0;
+    margin-left: 0;
+    text-align: left; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m7 {
+    width: 50% !important; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(1) {
+    font-size: 6.1rem;
+    text-align: left;
+    margin-top: 10.852%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info hr {
+    margin-left: -31px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(3) {
+    font-size: 3.65rem;
+    text-align: left; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(1) {
+    margin-left: 11px;
+    width: 370px;
+    font-size: 12.5px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(2) {
+    margin-left: 70px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(3) {
+    margin-left: 18px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info img {
+    display: initial;
+    margin-left: 0;
+    height: 180px; }
+  section#usf-pdf ul#countdown {
+    transform: translateY(5%); }
+    section#usf-pdf ul#countdown li {
+      margin: auto;
+      width: 7%;
+      font-size: 5vw; }
+      section#usf-pdf ul#countdown li.separator p {
+        transform: translateY(-55%); }
+      section#usf-pdf ul#countdown li#days .label {
+        margin-left: -9px; }
+      section#usf-pdf ul#countdown li#hours .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#hours .label {
+        margin-left: -3px; }
+      section#usf-pdf ul#countdown li#minutes .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#minutes .label {
+        margin-left: -12px; }
+      section#usf-pdf ul#countdown li#seconds .label {
+        margin-left: -12px; }
+      section#usf-pdf ul#countdown li .number {
+        margin: auto; }
+      section#usf-pdf ul#countdown li .label {
+        font-size: 2vw;
+        margin-left: -15px; }
+  section#usf .bg-usf {
+    background-size: 100% auto !important; }
+  section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg {
+    padding: 29px !important; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .m6 {
+      padding: 0; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(1) {
+      margin-bottom: 10px;
+      font-size: 22px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(2) {
+      margin-bottom: 10px;
+      font-size: 20px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(3) {
+      margin-bottom: 25px;
+      font-size: 20px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(4) {
+      font-size: 14px;
+      margin-bottom: 33px; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+      margin-left: 115px !important; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg #usf-logo {
+      object-fit: cover; }
+  section#usf #headusf-bg-layer {
+    width: 1000px !important; }
+    section#usf #headusf-bg-layer .card-headusf .row .m6 {
+      padding: 0; }
+    section#usf #headusf-bg-layer .card-headusf .card {
+      width: 100%; }
+      section#usf #headusf-bg-layer .card-headusf .card .card-content {
+        height: 400px; }
+    section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+      margin-left: 43px;
+      margin-bottom: 0; }
+  section#countdown .wrapper-countdown {
+    margin-top: 24px; }
+    section#countdown .wrapper-countdown ul#countdown {
+      padding: 0;
+      padding-top: 16px;
+      padding-left: 35px;
+      width: 46%;
+      height: 132px; }
+      section#countdown .wrapper-countdown ul#countdown li {
+        margin-left: -22px;
+        margin-right: 34px;
+        width: 98px; }
+        section#countdown .wrapper-countdown ul#countdown li .number p {
+          font-size: 38px;
+          margin-left: 1px; }
+        section#countdown .wrapper-countdown ul#countdown li .label {
+          font-size: 24px; }
+  section#usf-about #usf-about-wrapper {
+    width: 1000px !important; }
+    section#usf-about #usf-about-wrapper #wrapper-bawah-usf-about {
+      width: 1000px !important; }
+    section#usf-about #usf-about-wrapper #atas-usf-about p {
+      height: 130px;
+      margin-bottom: 0; }
+      section#usf-about #usf-about-wrapper #atas-usf-about p span {
+        line-height: 1.2;
+        font-size: 64px; }
+    section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+      width: 1000px; }
+      section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+        text-align: center;
+        font-size: 18px; }
+  section#participate #participate-wrapper {
+    width: 1000px !important;
+    padding-left: 0;
+    padding-top: 120px; }
+    section#participate #participate-wrapper #card-participate-content {
+      padding: 30px; }
+      section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+        margin-top: 28px;
+        padding-left: 126px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+          margin-right: 0;
+          margin-bottom: 40px;
+          margin-left: 0;
+          margin-right: 28px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(1) {
+          margin-right: 0;
+          margin-bottom: 0; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m2 {
+        padding-left: 15px !important;
+        padding-top: 11px !important; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 {
+        margin-left: -27px !important;
+        padding-left: 20px; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 p {
+          font-size: 24px !important;
+          margin: 10px 0; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 span {
+          font-size: 18px !important; }
+      section#participate #participate-wrapper #card-participate-content .card-round {
+        width: 70px;
+        height: 70px;
+        padding: 17px 9px 0px 18px; }
+        section#participate #participate-wrapper #card-participate-content .card-round i {
+          font-size: 36px; }
+  section#schedule-soon #schedule-wrapper {
+    width: 1000px !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m2 {
+      padding-left: 15px !important;
+      padding-top: 11px !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 {
+      margin-left: -38px !important;
+      padding-left: 20px; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 p {
+        font-size: 28px !important;
+        margin: 10px 0; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 span {
+        font-size: 18px !important; }
+    section#schedule-soon #schedule-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#schedule-soon #schedule-wrapper .card-round i {
+        font-size: 36px; }
+  section#schedule #wrapper-schedule {
+    width: 1000px !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 0; }
+      section#schedule #wrapper-schedule #schedule-timeline .wrapper-schedule-timeline {
+        margin-top: 45px;
+        padding-left: 60px; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: 260px; }
+      section#schedule #wrapper-schedule #schedule-info .valign {
+        margin: 0 auto; }
+  section#venue #location #location-wrapper {
+    width: 1000px !important; }
+    section#venue #location #location-wrapper #wrapper-location-header .m2 {
+      padding-left: 15px;
+      padding-top: 0; }
+    section#venue #location #location-wrapper #wrapper-location-header .m10 {
+      margin-left: -45px !important;
+      padding-left: 20px; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 p {
+        font-size: 24px !important;
+        margin: 10px 0; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 span {
+        font-size: 18px; }
+    section#venue #location #location-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#venue #location #location-wrapper .card-round i {
+        font-size: 36px; }
+  section#venue #map {
+    height: 536px; }
+  section#venue #info-loc {
+    width: 320px;
+    height: 320px;
+    right: 35px;
+    top: 72px; }
+  section#archieve {
+    top: 0;
+    background: url("../../../frontend/img/bg_21.png") 270px 0;
+    background-size: 1400px auto;
+    height: 550px;
+    background-repeat: no-repeat; }
+    section#archieve #archieve-wrapper {
+      width: 1000px !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        margin-top: 0px;
+        z-index: 998; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 56px 32px 80px 56px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+            margin-left: -50px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+              font-size: 28px !important;
+              margin: 10px 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+              font-size: 16px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 70px;
+            height: 70px;
+            padding: 16px 12px 0 18px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 36px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 25px;
+            margin-top: 37px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              display: -ms-flexbox;
+              display: flex;
+              padding-left: 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin-right: 48px; }
+                section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li .grayscale figure img {
+                  width: 216px;
+                  height: 216px; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part #org-part-wrapper {
+    width: 1200px !important; }
+    section#org-part #org-part-wrapper #wrapper-org-part-header {
+      padding: 0 160px !important; }
+      section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round {
+        width: 70px;
+        height: 70px;
+        padding: 16px 12px 0 18px; }
+        section#org-part #org-part-wrapper #wrapper-org-part-header .m2 .card-round i {
+          font-size: 36px; }
+      section#org-part #org-part-wrapper #wrapper-org-part-header .m10 p {
+        font-size: 28px !important;
+        margin: 0 !important;
+        padding-left: 15px;
+        margin-top: 25px !important; }
+  section#org-part #wrapper-org-part-header {
+    padding: 0 180px; }
+    section#org-part #wrapper-org-part-header .m2 {
+      padding: 0;
+      margin-left: 13px; }
+    section#org-part #wrapper-org-part-header .m10 {
+      padding: 0;
+      margin-left: -48px; }
+      section#org-part #wrapper-org-part-header .m10 p {
+        font-family: 'LatoWebBold' !important;
+        font-size: 32px;
+        opacity: .87;
+        text-transform: uppercase;
+        margin: 0;
+        margin-top: 18px; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+    margin: 0 auto !important;
+    width: 160px !important;
+    height: 180px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(2) img {
+    width: auto !important;
+    height: 140px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(3) img {
+    width: auto !important;
+    height: 140px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(5) {
+    padding-top: 30px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(8) img {
+    width: auto !important;
+    height: 140px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(9) {
+    padding-top: 20px !important;
+    width: 300px !important;
+    height: 180px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(9) img {
+      width: auto !important;
+      height: 80px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(10) {
+    padding-top: 30px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(11) {
+    padding-top: 30px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(12) {
+    padding-top: 70px !important;
+    width: 240px !important;
+    height: 180px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(12) img {
+      width: auto !important;
+      height: 40px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(13), section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(32), section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(33), section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(34), section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(35) {
+    width: 160px !important;
+    height: 180px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(14) {
+    padding-top: 50px !important;
+    width: 200px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(14) img {
+      height: 65px !important;
+      width: auto !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(16) {
+    width: 300px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(16) img {
+      height: 200px !important;
+      width: auto !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(17) img {
+    width: 130px !important;
+    height: auto !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(18) {
+    padding-top: 30px !important;
+    width: 300px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(18) img {
+      width: auto !important;
+      height: 70px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(19) {
+    width: 130px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(20) {
+    padding-top: 30px !important;
+    width: 240px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(20) img {
+      width: auto !important;
+      height: 70px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(21) {
+    padding-top: 40px !important;
+    width: 230px !important;
+    height: 180px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(21) img {
+      width: auto !important;
+      height: 60px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(22) {
+    padding-top: 30px !important;
+    width: 250px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(22) img {
+      width: auto !important;
+      height: 40px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(23) {
+    padding-top: 15px !important;
+    width: 250px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(23) img {
+      width: auto !important;
+      height: 65px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(24) img {
+    height: 70px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(25) {
+    padding-top: 15px !important;
+    width: 250px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(25) img {
+      width: auto !important;
+      height: 85px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(26) {
+    padding-top: 15px !important;
+    width: 280px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(26) img {
+      width: auto !important;
+      height: 85px !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(27) img {
+    width: 180px !important;
+    height: auto !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(28) {
+    width: 190px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(28) img {
+      height: 165px !important;
+      width: auto !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(29) {
+    width: 190px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(29) img {
+      height: 190px !important;
+      width: auto !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(30) {
+    width: 190px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(30) img {
+      height: 200px !important;
+      width: auto !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(31) {
+    padding-top: 30px !important;
+    width: 190px !important; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(31) img {
+      height: 90px !important;
+      width: auto !important; }
+  section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li:nth-child(32) img {
+    height: 155px !important; }
+  section#contact-soon {
+    top: 60px;
+    height: 815px;
+    background: url("../../../frontend/img/bg_1lalaal.png") no-repeat center 200px; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 1000px !important; }
+      section#contact-soon #contact-soon-wrapper .m12 {
+        padding: 0; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 56px 32px 80px 56px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 110px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(4) {
+            padding-left: 110px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 35px;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+            margin-left: -61px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+              font-size: 32px !important;
+              margin: 10px 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+              font-size: 16px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 70px;
+            height: 70px;
+            padding: 16px 12px 0 18px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 36px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-left: 20px;
+        margin-top: 75px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 0; } }
+
+@media only screen and (min-width: 1360px) {
+  nav .button-collapse i {
+    color: #000; }
+  nav#usf-navbar {
+    height: 75px; }
+    nav#usf-navbar .nav-wrapper {
+      width: 90%; }
+      nav#usf-navbar .nav-wrapper ul.side-nav li {
+        display: block;
+        height: 70px;
+        margin-top: 20px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf .row {
+    margin-top: 0; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-logo img {
+    height: 268px;
+    float: right;
+    position: relative;
+    margin-top: 19.434%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m5 {
+    width: 50% !important;
+    padding-left: 0;
+    margin-top: 0;
+    margin-left: 0;
+    text-align: left; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info .m7 {
+    width: 50% !important; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(1) {
+    font-size: 6.1rem;
+    text-align: left;
+    margin-top: 10.852%; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info hr {
+    margin-left: -31px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info p:nth-child(3) {
+    font-size: 3.65rem;
+    text-align: left; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(1) {
+    margin-left: 11px;
+    width: 370px;
+    font-size: 12.5px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(2) {
+    margin-left: 70px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info a:nth-child(3) {
+    margin-left: 18px; }
+  section#usf-pdf .head-usf-pdf #wrapper-usf-pdf #usf-pdf-info img {
+    display: initial;
+    margin-left: 0;
+    height: 144px; }
+  section#usf-pdf ul#countdown {
+    transform: translateY(-20%); }
+    section#usf-pdf ul#countdown li {
+      margin: auto;
+      width: 7%;
+      font-size: 5vw; }
+      section#usf-pdf ul#countdown li.separator p {
+        transform: translateY(-48%); }
+      section#usf-pdf ul#countdown li#days .label {
+        margin-left: -9px; }
+      section#usf-pdf ul#countdown li#hours .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#hours .label {
+        margin-left: -3px; }
+      section#usf-pdf ul#countdown li#minutes .number p {
+        margin-left: 0; }
+      section#usf-pdf ul#countdown li#minutes .label {
+        margin-left: 6px; }
+      section#usf-pdf ul#countdown li#seconds .label {
+        margin-left: 6px; }
+      section#usf-pdf ul#countdown li .number {
+        margin: auto; }
+      section#usf-pdf ul#countdown li .label {
+        font-size: 1.25vw;
+        font-weight: 600;
+        margin-left: -15px;
+        margin-top: -15px; }
+  section#usf {
+    height: 720px !important; }
+    section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg {
+      padding: 29px !important; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .m6 {
+        padding: 0; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(1) {
+        margin-bottom: 32px;
+        font-size: 28px; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(2) {
+        margin-bottom: 10px;
+        font-size: 20px; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(3) {
+        margin-bottom: 32px;
+        font-size: 20px; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg p:nth-child(4) {
+        margin-bottom: 33px;
+        font-size: 16px; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+        margin-bottom: 52px;
+        margin-left: 25%;
+        line-height: 2.1;
+        font-size: 16px; }
+      section#usf .card-headusf .wrapper-card-headusf #wrapper-usf-reg #usf-logo {
+        object-fit: cover; }
+    section#usf #headusf-bg-layer {
+      width: 1000px !important; }
+      section#usf #headusf-bg-layer .card-headusf .row .m6 {
+        padding: 0 0.75rem; }
+      section#usf #headusf-bg-layer .card-headusf .card {
+        width: 100%; }
+        section#usf #headusf-bg-layer .card-headusf .card .card-content {
+          height: 464px; }
+      section#usf #headusf-bg-layer .card-headusf .wrapper-card-headusf #wrapper-usf-reg .btn-usf {
+        margin-left: 43px;
+        margin-bottom: 0; }
+  section#countdown .wrapper-countdown ul#countdown {
+    padding: 0;
+    padding-top: 16px;
+    padding-left: 30px;
+    width: 45%; }
+    section#countdown .wrapper-countdown ul#countdown li {
+      margin-left: -22px;
+      margin-right: 34px;
+      width: 98px; }
+      section#countdown .wrapper-countdown ul#countdown li .number p {
+        font-size: 38px;
+        margin-left: 1px; }
+      section#countdown .wrapper-countdown ul#countdown li .label {
+        font-size: 24px; }
+  section#usf-about #usf-about-wrapper {
+    width: 1000px !important; }
+    section#usf-about #usf-about-wrapper #wrapper-bawah-usf-about {
+      width: 1000px !important; }
+    section#usf-about #usf-about-wrapper #atas-usf-about p {
+      height: 130px;
+      margin-bottom: 0; }
+      section#usf-about #usf-about-wrapper #atas-usf-about p span {
+        line-height: 1.2; }
+    section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about {
+      width: 1000px; }
+      section#usf-about #usf-about-wrapper #bawah-usf-about #wrapper-bawah-usf-about p {
+        text-align: center;
+        font-size: 18px; }
+  section#participate #participate-wrapper {
+    width: 1000px !important;
+    padding-left: 0; }
+    section#participate #participate-wrapper #card-participate-content {
+      padding: 30px; }
+      section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice {
+        margin-top: 28px;
+        padding-left: 126px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li {
+          margin-right: 0;
+          margin-bottom: 40px;
+          margin-left: 0;
+          margin-right: 28px; }
+        section#participate #participate-wrapper #card-participate-content .wrapper-card-participate #wrapper-participate-choice ul li:nth-last-child(1) {
+          margin-right: 0;
+          margin-bottom: 0; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m2 {
+        padding-left: 15px !important;
+        padding-top: 11px !important; }
+      section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 {
+        margin-left: -27px !important;
+        padding-left: 20px; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 p {
+          font-size: 24px !important;
+          margin: 10px 0; }
+        section#participate #participate-wrapper #card-participate-content #wrapper-participate-header .m10 span {
+          font-size: 18px !important; }
+      section#participate #participate-wrapper #card-participate-content .card-round {
+        width: 70px;
+        height: 70px;
+        padding: 17px 9px 0px 18px; }
+        section#participate #participate-wrapper #card-participate-content .card-round i {
+          font-size: 36px; }
+  section#schedule-soon #schedule-wrapper {
+    width: 1000px !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m2 {
+      padding-left: 15px !important;
+      padding-top: 11px !important; }
+    section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 {
+      margin-left: -38px !important;
+      padding-left: 20px; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 p {
+        font-size: 28px !important;
+        margin: 10px 0; }
+      section#schedule-soon #schedule-wrapper #wrapper-schedule-header .m10 span {
+        font-size: 18px !important; }
+    section#schedule-soon #schedule-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#schedule-soon #schedule-wrapper .card-round i {
+        font-size: 36px; }
+  section#schedule #wrapper-schedule {
+    width: 1000px !important; }
+    section#schedule #wrapper-schedule #schedule-timeline {
+      padding-left: 0; }
+      section#schedule #wrapper-schedule #schedule-timeline .wrapper-schedule-timeline {
+        margin-top: 45px;
+        padding-left: 0; }
+    section#schedule #wrapper-schedule #schedule-info {
+      margin-top: 260px;
+      padding-left: 40px; }
+      section#schedule #wrapper-schedule #schedule-info p:nth-child {
+        font-size: 23px; }
+  section#venue #location #location-wrapper {
+    width: 1000px !important; }
+    section#venue #location #location-wrapper #wrapper-location-header .m2 {
+      padding-left: 15px;
+      padding-top: 0; }
+    section#venue #location #location-wrapper #wrapper-location-header .m10 {
+      margin-left: -45px !important;
+      padding-left: 20px; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 p {
+        font-size: 24px !important;
+        margin: 10px 0; }
+      section#venue #location #location-wrapper #wrapper-location-header .m10 span {
+        font-size: 18px; }
+    section#venue #location #location-wrapper .card-round {
+      width: 70px;
+      height: 70px;
+      padding: 17px 9px 0px 18px; }
+      section#venue #location #location-wrapper .card-round i {
+        font-size: 36px; }
+  section#venue #map {
+    height: 536px; }
+  section#venue #info-loc {
+    width: 320px;
+    height: 320px;
+    right: 35px;
+    top: 72px; }
+  section#archieve {
+    top: 0; }
+    section#archieve #archieve-wrapper {
+      width: 1000px !important; }
+      section#archieve #archieve-wrapper #card-archieve {
+        height: 100%;
+        z-index: 99;
+        top: -64px; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-content {
+          padding: 56px 32px 80px 56px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 {
+            margin-left: -50px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 p {
+              font-size: 28px !important;
+              margin: 10px 0; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-header .m10 span {
+              font-size: 16px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round {
+            width: 70px;
+            height: 70px;
+            padding: 16px 12px 0 18px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve .card-round i {
+              font-size: 36px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice {
+            padding-left: 25px;
+            margin-top: 37px; }
+            section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul {
+              display: -ms-flexbox;
+              display: flex;
+              padding-left: 0; }
+              section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li {
+                margin-right: 48px; }
+                section#archieve #archieve-wrapper #card-archieve #card-archieve-content .wrapper-card-archieve #wrapper-archieve-choice ul li .grayscale figure img {
+                  width: 216px;
+                  height: 216px; }
+        section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper {
+          padding: 20px; }
+          section#archieve #archieve-wrapper #card-archieve #card-archieve-wrapper #wrapper-archieve-choice {
+            padding: 0;
+            margin: 16px; }
+  section#org-part {
+    top: 0; }
+    section#org-part #org-part-wrapper {
+      width: 1200px !important; }
+    section#org-part #wrapper-org-part-header {
+      padding: 0 180px !important; }
+      section#org-part #wrapper-org-part-header .m2 {
+        padding: 0;
+        margin-left: 13px; }
+      section#org-part #wrapper-org-part-header .m10 {
+        padding: 0;
+        margin-left: -48px; }
+        section#org-part #wrapper-org-part-header .m10 p {
+          font-family: 'LatoWebBold' !important;
+          font-size: 32px;
+          opacity: .87;
+          text-transform: uppercase;
+          margin: 0;
+          margin-top: 18px; }
+    section#org-part .wrapper-card-org-part #wrapper-org-part-choice .row ul li {
+      margin-right: 24px !important; }
+  section#contact-soon {
+    background: url("../../../frontend/img/bg_1lalaal.png") no-repeat center 110px;
+    background-size: 1440px auto;
+    width: 100%;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    height: 763px;
+    top: 15px; }
+    section#contact-soon #contact-soon-wrapper {
+      width: 1000px !important; }
+      section#contact-soon #contact-soon-wrapper .m12 {
+        padding: 0; }
+      section#contact-soon #contact-soon-wrapper #card-contact-soon {
+        height: 100%; }
+        section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content {
+          padding: 56px 32px 80px 56px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(3) {
+            padding-left: 110px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon .row:nth-child(4) {
+            padding-left: 110px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .wrapper-card-contact-soon #cp .row .m3 {
+            margin-right: 35px;
+            margin-bottom: 30px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 {
+            margin-left: -61px !important;
+            margin-top: 10px;
+            padding-left: 20px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 p {
+              font-size: 32px !important;
+              margin: 10px 0; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content #wrapper-contact-soon-header .m10 span {
+              font-size: 16px; }
+          section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round {
+            width: 70px;
+            height: 70px;
+            padding: 16px 12px 0 18px; }
+            section#contact-soon #contact-soon-wrapper #card-contact-soon #card-contact-soon-content .card-round i {
+              font-size: 36px; }
+      section#contact-soon #contact-soon-wrapper ul#social-icons {
+        margin-left: 20px;
+        margin-top: 75px; }
+        section#contact-soon #contact-soon-wrapper ul#social-icons li {
+          margin-right: 20px; }
+  section#footer-usf {
+    position: relative;
+    top: 0; } }
+
+@media only screen and (min-width: 1440px) {
+  section#archieve {
+    background: url("../../../frontend/img/bg_21.png") 270px -110px;
+    background-size: 1920px auto;
+    background-repeat: no-repeat; }
+  section#contact-soon {
+    background-size: 1920px auto; } }

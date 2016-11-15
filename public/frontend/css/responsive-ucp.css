@@ -1,0 +1,14 @@
+@media only screen and (min-width: 320px) {
+  nav .brand-logo {
+    margin-right: 0; }
+  nav #wrapper-nav {
+    width: 90% !important; }
+  nav .mobile-ui .menu {
+    padding: 0;
+    vertical-align: middle; }
+  nav .mobile-ui #mobile-prof-menu {
+    height: 100%; }
+  nav #wrapper-nav img.profilep-img {
+    margin-top: 0; }
+  nav i.material-icons {
+    font-size: 24px; } }

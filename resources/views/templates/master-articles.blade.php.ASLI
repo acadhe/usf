@@ -1,0 +1,73 @@
+@extends('templates.master')
+@section('head')
+@parent
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" href="{{asset('frontend/assets/medium-editor/dist/css/medium-editor.css')}}">
+	<link rel="stylesheet" href="{{asset('frontend/assets/medium-editor/dist/css/themes/default.css')}}">
+	<link rel="stylesheet" href="{{asset('frontend/assets/medium-editor-insert-plugin/dist/css/medium-editor-insert-plugin.min.css')}}">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.webui-popover/1.2.1/jquery.webui-popover.min.css">
+@endsection
+
+@section('navbar')
+	<nav id="articles">
+	  <div class="nav-wrapper">
+		<div class="container" id="wrapper-nav">
+		  <a href="{{route('home')}}" class="brand-logo" id="write">
+			<img src="{{ asset('frontend/img/logo.svg') }}" alt="UCP Logo" class="svg-black">
+		  </a>
+{{-- 		  <ul id="nav-mobile" class="right hide-on-med-and-down">
+		  	<li> --}}
+		  	<div class="right" id="nav-articles">
+				@if(!Auth::guest())
+				<ul>
+					<li>
+						<a href="#" class="dropdown-publish waves-effect btn-flat" id="publish-post">Publish</a>
+						<div id="webui-popover">
+						    <p>Ready to publlish?</p>
+							<p>Add or change social media accounts,<br>>so your story reaches more people:</p>
+							<a class="waves-effect btn-flat fb"><i class="fa fa-facebook-square" aria-hidden="true"></i>Connect to Facebook</a>
+							<a class="waves-effect btn-flat tw"><i class="fa fa-twitter" aria-hidden="true"></i>Connect to Twitter</a>
+							<hr>
+							<a class="waves-effect btn-flat right" value="save">PUBLISH</a>
+						</div>
+					</li>
+					<li>
+						<a class="waves-effect btn-flat" id="draft-post">Set Draft</a>
+					</li>
+					<li>
+						<a href="#" class="dropdown-button menu" id="wrapper-profilep-img" data-beloworigin="true" data-activates="dropdown-profile"><img src="{{Auth::user()->photo_url}}" alt="" class="circle responsive-img profilep-img"></a>
+						<!-- Dropdown Structure -->
+						<ul id="dropdown-profile" class="dropdown-content">
+							<li><a href="{{route('auth.logout')}}">Logout</a></li>
+						</ul>
+					</li>
+				@else
+					<li>
+						<a href="{{route('auth.login')}}" class="sgnin menu">Sign In / Signup</a>
+					</li>
+				@endif
+				</ul>
+			</div>
+			{{-- </li>
+		  </ul> --}}
+		</div>
+	  </div>
+	</nav>
+@endsection
+
+@section('scripts')
+@parent
+	<script src="https://cdn.jsdelivr.net/jquery.webui-popover/1.2.1/jquery.webui-popover.min.js"></script>
+	<script src="{{asset('frontend/assets/medium-editor/dist/js/medium-editor.js')}}"></script>
+	<script src="{{asset('frontend/assets/handlebars/handlebars.runtime.min.js')}}"></script>
+	<script src="{{asset('frontend/assets/jquery-sortable/source/js/jquery-sortable-min.js')}}"></script>
+	<script src="{{asset('frontend/assets/jquery.ui.widget/jquery.ui.widget.js')}}"></script>
+	<script src="{{asset('frontend/assets/blueimp-file-upload/js/jquery.iframe-transport.js')}}"></script>
+	<script src="{{asset('frontend/assets/blueimp-file-upload/js/jquery.fileupload.js')}}"></script>
+	<script src="{{asset('frontend/assets/medium-editor-insert-plugin/dist/js/medium-editor-insert-plugin.js')}}"></script>
+	<script>
+	$(document).ready(function() {
+		$('a#publish-post').webuiPopover({url:'#webui-popover'});
+	});
+	</script>
+@endsection
